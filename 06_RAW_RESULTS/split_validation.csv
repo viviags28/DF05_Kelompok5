@@ -1,0 +1,3 @@
+path,size_bytes,sha256,pillow_format,valid_image,error
+04_PHOTOREC\pilot\split\recup_dir.1\f0000000.bmp,331830,00198692cb6abebd828cd8c5c7df87e0249c385bb66405a7a6533b10dad3bc46,BMP,1,
+04_PHOTOREC\pilot\split\recup_dir.1\report.xml,1597,f402aef70e5028546ddd65f4ba505ba70cba778cba3a1378fc3963117a2f5588,UNKNOWN,0,cannot identify image file '04_PHOTOREC\\pilot\\split\\recup_dir.1\\report.xml'

@@ -1,0 +1,241 @@
+condition,source_filename,format,source_sha256,expected_exact_hash,expected_openable,notes
+contiguous,JPEG_01.jpg,JPEG,72f37677a4d2da84edcfca39689ea5379ead2e9cb093fd4060ae24bd66abad4a,1,1,File utuh dan kontigu; byte identik dengan source.
+contiguous,JPEG_02.jpg,JPEG,6d369a242194cd11c4bcfe7ce222363999acaea1b650e057c0b009949c8023dc,1,1,File utuh dan kontigu; byte identik dengan source.
+contiguous,JPEG_03.jpg,JPEG,9bc61b5d5b10410f51ccae9155ebaf7a21df899b49825f4b57a71d6b21cac55f,1,1,File utuh dan kontigu; byte identik dengan source.
+contiguous,JPEG_04.jpg,JPEG,2b2a4620d7b72f39da15c1e077a04305342c351675bdd9bc5527fbb580f54cab,1,1,File utuh dan kontigu; byte identik dengan source.
+contiguous,JPEG_05.jpg,JPEG,46796700f25b9fe5671827e95771501b3f14581705aed7b256f205b782220b83,1,1,File utuh dan kontigu; byte identik dengan source.
+contiguous,JPEG_06.jpg,JPEG,277e89e7478b43bf2a454055fcef0fbbb7ab965faed633a36465edd3c80ff7f9,1,1,File utuh dan kontigu; byte identik dengan source.
+contiguous,JPEG_07.jpg,JPEG,d54dda6280e8ab513751ba6f6622af17ec0a06ddb650b417410519617ec7bd55,1,1,File utuh dan kontigu; byte identik dengan source.
+contiguous,JPEG_08.jpg,JPEG,0b95837a73e63bd263b4672e39d1c6c14917433cacf77f9aade377b4733dc846,1,1,File utuh dan kontigu; byte identik dengan source.
+contiguous,JPEG_09.jpg,JPEG,ca40f45af89d40c3bbae75f30ac92a12905acf42647626ffa71ed2cb15185d21,1,1,File utuh dan kontigu; byte identik dengan source.
+contiguous,JPEG_10.jpg,JPEG,cde5ecc27e1f8c7422363a572083e6e42a7b558a265d9a95386fe7fd82db8eaf,1,1,File utuh dan kontigu; byte identik dengan source.
+contiguous,JPEG_11.jpg,JPEG,c08a92f4e9a9e5270357c3a0aa604b3c50f1bcbe1fec84185021dd39fed65e39,1,1,File utuh dan kontigu; byte identik dengan source.
+contiguous,JPEG_12.jpg,JPEG,d6c4bca4d85a72e25edf460edccdb312efb6c20788b90d1aa43396be24322b3a,1,1,File utuh dan kontigu; byte identik dengan source.
+contiguous,JPEG_13.jpg,JPEG,afb60f344ca0b6f36aff4b3b6cb1c0b39515775d5a167035acf0b3971559e295,1,1,File utuh dan kontigu; byte identik dengan source.
+contiguous,JPEG_14.jpg,JPEG,d425eaca1c5c27aa2e65e9a6c7100e9f7033ff2b999081e1481ec48025fda6a7,1,1,File utuh dan kontigu; byte identik dengan source.
+contiguous,JPEG_15.jpg,JPEG,233fd8904ac70cff1a37a8f09239ec31cd917e9365d2985a61125d33404ce8a8,1,1,File utuh dan kontigu; byte identik dengan source.
+contiguous,JPEG_16.jpg,JPEG,8bc304370ebb35331f4ae19121a5b9698c1ebc4ff32b3ee1e79b1d382eb76042,1,1,File utuh dan kontigu; byte identik dengan source.
+contiguous,JPEG_17.jpg,JPEG,1d089cae5dce9b9096fe8562469054aaead15220c8af7718900042e0cefb1ae7,1,1,File utuh dan kontigu; byte identik dengan source.
+contiguous,JPEG_18.jpg,JPEG,b3604fd9e575a1ff770d73ab372009637e756ee156d4a85c7f00344b90375709,1,1,File utuh dan kontigu; byte identik dengan source.
+contiguous,JPEG_19.jpg,JPEG,b83d541298063ea9dbb4e2d660b386c6fad91960bcd7d714112c2359f70e8a09,1,1,File utuh dan kontigu; byte identik dengan source.
+contiguous,JPEG_20.jpg,JPEG,8a1eee90b97b629ca74ecd2306bb05d997d1210bd90ee75b39a856bb07d7f1fe,1,1,File utuh dan kontigu; byte identik dengan source.
+contiguous,PNG_01.png,PNG,dc93134b51ce19aabb8a511603af5e3b229c869c61e050ee64807720a55a85dc,1,1,File utuh dan kontigu; byte identik dengan source.
+contiguous,PNG_02.png,PNG,6f916a1fde3bc95bb33bac0e5c961f900e88e64d3706349880236da3573b4ec1,1,1,File utuh dan kontigu; byte identik dengan source.
+contiguous,PNG_03.png,PNG,503556e9ebeb3137a394bed1d022c0844b6362e9ca479985437a5f6804a36595,1,1,File utuh dan kontigu; byte identik dengan source.
+contiguous,PNG_04.png,PNG,a99586ed88678d6445aa5be53129e31bbe72ab15b8db2c8567e107be06ccc9ae,1,1,File utuh dan kontigu; byte identik dengan source.
+contiguous,PNG_05.png,PNG,155067f4f7961c3ae21b863861c71d77bb1f4370a0e5278e2d352fb4ed8164e0,1,1,File utuh dan kontigu; byte identik dengan source.
+contiguous,PNG_06.png,PNG,069658b94f6bd279b962ae82c43ace0d055de92bf5610c375f7ff71d4b0e6988,1,1,File utuh dan kontigu; byte identik dengan source.
+contiguous,PNG_07.png,PNG,5a6e4386f9366e45016b409d2602f15d455a153b6c2c1bd6ea7aa60a8c2ec8e7,1,1,File utuh dan kontigu; byte identik dengan source.
+contiguous,PNG_08.png,PNG,01d457d0f4a63e37cebc9c0442dc23c7578c162573a00cbdd07e4fe54b0eee42,1,1,File utuh dan kontigu; byte identik dengan source.
+contiguous,PNG_09.png,PNG,a83ab68e6280314ca2e9041848208c3737d451c46a73f82c0370dfb476ef2da9,1,1,File utuh dan kontigu; byte identik dengan source.
+contiguous,PNG_10.png,PNG,4a477acb8af75af4c81da30ba2bed95a75b8373a3b00d0c1cb40dfdc066847b4,1,1,File utuh dan kontigu; byte identik dengan source.
+contiguous,PNG_11.png,PNG,956707b789af701241ba65e95f1823eaccc391d3aaa63569aeb78628db341e54,1,1,File utuh dan kontigu; byte identik dengan source.
+contiguous,PNG_12.png,PNG,01213c1ac50df0821d0e6b807cd4cfbfeafaee153b70d04dec19ecc33e4f79a7,1,1,File utuh dan kontigu; byte identik dengan source.
+contiguous,PNG_13.png,PNG,d3d3626ae2d243fbd0cf2da0f2e4f784949fd337493c431a5f95e7d55df92f95,1,1,File utuh dan kontigu; byte identik dengan source.
+contiguous,PNG_14.png,PNG,64860f872761ab3e5691be5d1ff63addca32edc28e88235a4a3bfed3da4502cc,1,1,File utuh dan kontigu; byte identik dengan source.
+contiguous,PNG_15.png,PNG,56f8e12ccd40f3b0fa616288db73cd5ace567a81e31bb57aab15e05a8ac59458,1,1,File utuh dan kontigu; byte identik dengan source.
+contiguous,PNG_16.png,PNG,de71d7143c4ae09bd2c9a3150a8ee891225b5995ee27f39cc98537fdaed3c410,1,1,File utuh dan kontigu; byte identik dengan source.
+contiguous,PNG_17.png,PNG,20c932c4e535477d85fd5b5cfab9c33973031480102c7194a9684c32017b3b06,1,1,File utuh dan kontigu; byte identik dengan source.
+contiguous,PNG_18.png,PNG,b20b59eff9e59a7eab38f1eeedc41a7427510fd3c5bc365f1e96a3b9e4da771c,1,1,File utuh dan kontigu; byte identik dengan source.
+contiguous,PNG_19.png,PNG,7d30c7bd067cab029698e3b615e6df3ac277826e57ff2f5fcc9bef1651c6e403,1,1,File utuh dan kontigu; byte identik dengan source.
+contiguous,PNG_20.png,PNG,76d85ae7ef0fcd070f3a58d01e306420f3a66067a94ba033d9ef03be068628f1,1,1,File utuh dan kontigu; byte identik dengan source.
+contiguous,BMP_01.bmp,BMP,7ee03a5521e4951a7b9b47c39f9c2f5c899ebc8a92e50c240b3183e0e30adcf6,1,1,File utuh dan kontigu; byte identik dengan source.
+contiguous,BMP_02.bmp,BMP,a4ff60a468e6c5ca6f2ccf3634fd719fedf387d1016a84d7e9d7cf4ca1dd8b77,1,1,File utuh dan kontigu; byte identik dengan source.
+contiguous,BMP_03.bmp,BMP,68d5959cd12cbe0eb7d4d3b9f32477b1f1ff1da93b9da9114de36f7ad429e230,1,1,File utuh dan kontigu; byte identik dengan source.
+contiguous,BMP_04.bmp,BMP,39d301b835f15bc1d1c08d08e3557ab769e7560460d169fc4cf8e5440ce4bd71,1,1,File utuh dan kontigu; byte identik dengan source.
+contiguous,BMP_05.bmp,BMP,5c383f8df57eda48cba178fd258cabb2ecbb405ec5fc08e03352dde17ee5444a,1,1,File utuh dan kontigu; byte identik dengan source.
+contiguous,BMP_06.bmp,BMP,6fbcaf8c8d7bb2c93cf9a1d7617eab5ac9cf24fd15d608135850a5e46bff1911,1,1,File utuh dan kontigu; byte identik dengan source.
+contiguous,BMP_07.bmp,BMP,3384396f098ba716aceaabc66863f27133dd22dd194baac61748e9d245e34060,1,1,File utuh dan kontigu; byte identik dengan source.
+contiguous,BMP_08.bmp,BMP,785191aa79a2aad9c9a258c8cc3070d16c7618314184179b21aff9e21b777f5c,1,1,File utuh dan kontigu; byte identik dengan source.
+contiguous,BMP_09.bmp,BMP,062531d77f3a490afbb8167d296083a3294418f610913b1200a04234c8db2376,1,1,File utuh dan kontigu; byte identik dengan source.
+contiguous,BMP_10.bmp,BMP,bf48989c535a5b4899edd38cfa471d0710855379f6ec1ad5f3dc10c76b5ca477,1,1,File utuh dan kontigu; byte identik dengan source.
+contiguous,BMP_11.bmp,BMP,c7e66b13ec73ae52095124bcb02c013b912bd01aa3593c038a8630ba69133ee3,1,1,File utuh dan kontigu; byte identik dengan source.
+contiguous,BMP_12.bmp,BMP,4a2590502f50d9cead6ce3fb8e8e61c17d29c837143bd6c928044ec7dce1e88d,1,1,File utuh dan kontigu; byte identik dengan source.
+contiguous,BMP_13.bmp,BMP,dfa74500789a521e939d3d25f2af045005016766e543bf0ac5b271f1fc98c858,1,1,File utuh dan kontigu; byte identik dengan source.
+contiguous,BMP_14.bmp,BMP,513dde667c19c8012fc8f8b7b9d6d180fb0987e38a544597f99086198b0dd84f,1,1,File utuh dan kontigu; byte identik dengan source.
+contiguous,BMP_15.bmp,BMP,b99ba75abe8169138573d62304698539514152ebd11e942077466f385050eae5,1,1,File utuh dan kontigu; byte identik dengan source.
+contiguous,BMP_16.bmp,BMP,1978998aac8b2a43fd6e2167c67d80e3bcb0261269427298f03262618d919e25,1,1,File utuh dan kontigu; byte identik dengan source.
+contiguous,BMP_17.bmp,BMP,45beec1d223ca9b02554d8b989ca7119b04d89b58571ab445c868a57f0e140f0,1,1,File utuh dan kontigu; byte identik dengan source.
+contiguous,BMP_18.bmp,BMP,3ac1090b5f4dc49f93fbadaf74658c979ceaf1c6c0667b33ebb77cadf7d32207,1,1,File utuh dan kontigu; byte identik dengan source.
+contiguous,BMP_19.bmp,BMP,9c9e1e96e8fd09d32c9b156792f90354f3fa9af57c4da57622e8cd2e3a4099ab,1,1,File utuh dan kontigu; byte identik dengan source.
+contiguous,BMP_20.bmp,BMP,863640e1a3d84b1306d7640178aca9d9b8ecb8c2663526669cdb7a0c7464acba,1,1,File utuh dan kontigu; byte identik dengan source.
+split,JPEG_01.jpg,JPEG,72f37677a4d2da84edcfca39689ea5379ead2e9cb093fd4060ae24bd66abad4a,0,0,"Dipecah dua bagian, 8192 byte filler di antaranya; tidak ada run kontigu identik source."
+split,JPEG_02.jpg,JPEG,6d369a242194cd11c4bcfe7ce222363999acaea1b650e057c0b009949c8023dc,0,0,"Dipecah dua bagian, 8192 byte filler di antaranya; tidak ada run kontigu identik source."
+split,JPEG_03.jpg,JPEG,9bc61b5d5b10410f51ccae9155ebaf7a21df899b49825f4b57a71d6b21cac55f,0,0,"Dipecah dua bagian, 8192 byte filler di antaranya; tidak ada run kontigu identik source."
+split,JPEG_04.jpg,JPEG,2b2a4620d7b72f39da15c1e077a04305342c351675bdd9bc5527fbb580f54cab,0,0,"Dipecah dua bagian, 8192 byte filler di antaranya; tidak ada run kontigu identik source."
+split,JPEG_05.jpg,JPEG,46796700f25b9fe5671827e95771501b3f14581705aed7b256f205b782220b83,0,0,"Dipecah dua bagian, 8192 byte filler di antaranya; tidak ada run kontigu identik source."
+split,JPEG_06.jpg,JPEG,277e89e7478b43bf2a454055fcef0fbbb7ab965faed633a36465edd3c80ff7f9,0,0,"Dipecah dua bagian, 8192 byte filler di antaranya; tidak ada run kontigu identik source."
+split,JPEG_07.jpg,JPEG,d54dda6280e8ab513751ba6f6622af17ec0a06ddb650b417410519617ec7bd55,0,0,"Dipecah dua bagian, 8192 byte filler di antaranya; tidak ada run kontigu identik source."
+split,JPEG_08.jpg,JPEG,0b95837a73e63bd263b4672e39d1c6c14917433cacf77f9aade377b4733dc846,0,0,"Dipecah dua bagian, 8192 byte filler di antaranya; tidak ada run kontigu identik source."
+split,JPEG_09.jpg,JPEG,ca40f45af89d40c3bbae75f30ac92a12905acf42647626ffa71ed2cb15185d21,0,0,"Dipecah dua bagian, 8192 byte filler di antaranya; tidak ada run kontigu identik source."
+split,JPEG_10.jpg,JPEG,cde5ecc27e1f8c7422363a572083e6e42a7b558a265d9a95386fe7fd82db8eaf,0,0,"Dipecah dua bagian, 8192 byte filler di antaranya; tidak ada run kontigu identik source."
+split,JPEG_11.jpg,JPEG,c08a92f4e9a9e5270357c3a0aa604b3c50f1bcbe1fec84185021dd39fed65e39,0,0,"Dipecah dua bagian, 8192 byte filler di antaranya; tidak ada run kontigu identik source."
+split,JPEG_12.jpg,JPEG,d6c4bca4d85a72e25edf460edccdb312efb6c20788b90d1aa43396be24322b3a,0,0,"Dipecah dua bagian, 8192 byte filler di antaranya; tidak ada run kontigu identik source."
+split,JPEG_13.jpg,JPEG,afb60f344ca0b6f36aff4b3b6cb1c0b39515775d5a167035acf0b3971559e295,0,0,"Dipecah dua bagian, 8192 byte filler di antaranya; tidak ada run kontigu identik source."
+split,JPEG_14.jpg,JPEG,d425eaca1c5c27aa2e65e9a6c7100e9f7033ff2b999081e1481ec48025fda6a7,0,0,"Dipecah dua bagian, 8192 byte filler di antaranya; tidak ada run kontigu identik source."
+split,JPEG_15.jpg,JPEG,233fd8904ac70cff1a37a8f09239ec31cd917e9365d2985a61125d33404ce8a8,0,0,"Dipecah dua bagian, 8192 byte filler di antaranya; tidak ada run kontigu identik source."
+split,JPEG_16.jpg,JPEG,8bc304370ebb35331f4ae19121a5b9698c1ebc4ff32b3ee1e79b1d382eb76042,0,0,"Dipecah dua bagian, 8192 byte filler di antaranya; tidak ada run kontigu identik source."
+split,JPEG_17.jpg,JPEG,1d089cae5dce9b9096fe8562469054aaead15220c8af7718900042e0cefb1ae7,0,0,"Dipecah dua bagian, 8192 byte filler di antaranya; tidak ada run kontigu identik source."
+split,JPEG_18.jpg,JPEG,b3604fd9e575a1ff770d73ab372009637e756ee156d4a85c7f00344b90375709,0,0,"Dipecah dua bagian, 8192 byte filler di antaranya; tidak ada run kontigu identik source."
+split,JPEG_19.jpg,JPEG,b83d541298063ea9dbb4e2d660b386c6fad91960bcd7d714112c2359f70e8a09,0,0,"Dipecah dua bagian, 8192 byte filler di antaranya; tidak ada run kontigu identik source."
+split,JPEG_20.jpg,JPEG,8a1eee90b97b629ca74ecd2306bb05d997d1210bd90ee75b39a856bb07d7f1fe,0,0,"Dipecah dua bagian, 8192 byte filler di antaranya; tidak ada run kontigu identik source."
+split,PNG_01.png,PNG,dc93134b51ce19aabb8a511603af5e3b229c869c61e050ee64807720a55a85dc,0,0,"Dipecah dua bagian, 8192 byte filler di antaranya; tidak ada run kontigu identik source."
+split,PNG_02.png,PNG,6f916a1fde3bc95bb33bac0e5c961f900e88e64d3706349880236da3573b4ec1,0,0,"Dipecah dua bagian, 8192 byte filler di antaranya; tidak ada run kontigu identik source."
+split,PNG_03.png,PNG,503556e9ebeb3137a394bed1d022c0844b6362e9ca479985437a5f6804a36595,0,0,"Dipecah dua bagian, 8192 byte filler di antaranya; tidak ada run kontigu identik source."
+split,PNG_04.png,PNG,a99586ed88678d6445aa5be53129e31bbe72ab15b8db2c8567e107be06ccc9ae,0,0,"Dipecah dua bagian, 8192 byte filler di antaranya; tidak ada run kontigu identik source."
+split,PNG_05.png,PNG,155067f4f7961c3ae21b863861c71d77bb1f4370a0e5278e2d352fb4ed8164e0,0,0,"Dipecah dua bagian, 8192 byte filler di antaranya; tidak ada run kontigu identik source."
+split,PNG_06.png,PNG,069658b94f6bd279b962ae82c43ace0d055de92bf5610c375f7ff71d4b0e6988,0,0,"Dipecah dua bagian, 8192 byte filler di antaranya; tidak ada run kontigu identik source."
+split,PNG_07.png,PNG,5a6e4386f9366e45016b409d2602f15d455a153b6c2c1bd6ea7aa60a8c2ec8e7,0,0,"Dipecah dua bagian, 8192 byte filler di antaranya; tidak ada run kontigu identik source."
+split,PNG_08.png,PNG,01d457d0f4a63e37cebc9c0442dc23c7578c162573a00cbdd07e4fe54b0eee42,0,0,"Dipecah dua bagian, 8192 byte filler di antaranya; tidak ada run kontigu identik source."
+split,PNG_09.png,PNG,a83ab68e6280314ca2e9041848208c3737d451c46a73f82c0370dfb476ef2da9,0,0,"Dipecah dua bagian, 8192 byte filler di antaranya; tidak ada run kontigu identik source."
+split,PNG_10.png,PNG,4a477acb8af75af4c81da30ba2bed95a75b8373a3b00d0c1cb40dfdc066847b4,0,0,"Dipecah dua bagian, 8192 byte filler di antaranya; tidak ada run kontigu identik source."
+split,PNG_11.png,PNG,956707b789af701241ba65e95f1823eaccc391d3aaa63569aeb78628db341e54,0,0,"Dipecah dua bagian, 8192 byte filler di antaranya; tidak ada run kontigu identik source."
+split,PNG_12.png,PNG,01213c1ac50df0821d0e6b807cd4cfbfeafaee153b70d04dec19ecc33e4f79a7,0,0,"Dipecah dua bagian, 8192 byte filler di antaranya; tidak ada run kontigu identik source."
+split,PNG_13.png,PNG,d3d3626ae2d243fbd0cf2da0f2e4f784949fd337493c431a5f95e7d55df92f95,0,0,"Dipecah dua bagian, 8192 byte filler di antaranya; tidak ada run kontigu identik source."
+split,PNG_14.png,PNG,64860f872761ab3e5691be5d1ff63addca32edc28e88235a4a3bfed3da4502cc,0,0,"Dipecah dua bagian, 8192 byte filler di antaranya; tidak ada run kontigu identik source."
+split,PNG_15.png,PNG,56f8e12ccd40f3b0fa616288db73cd5ace567a81e31bb57aab15e05a8ac59458,0,0,"Dipecah dua bagian, 8192 byte filler di antaranya; tidak ada run kontigu identik source."
+split,PNG_16.png,PNG,de71d7143c4ae09bd2c9a3150a8ee891225b5995ee27f39cc98537fdaed3c410,0,0,"Dipecah dua bagian, 8192 byte filler di antaranya; tidak ada run kontigu identik source."
+split,PNG_17.png,PNG,20c932c4e535477d85fd5b5cfab9c33973031480102c7194a9684c32017b3b06,0,0,"Dipecah dua bagian, 8192 byte filler di antaranya; tidak ada run kontigu identik source."
+split,PNG_18.png,PNG,b20b59eff9e59a7eab38f1eeedc41a7427510fd3c5bc365f1e96a3b9e4da771c,0,0,"Dipecah dua bagian, 8192 byte filler di antaranya; tidak ada run kontigu identik source."
+split,PNG_19.png,PNG,7d30c7bd067cab029698e3b615e6df3ac277826e57ff2f5fcc9bef1651c6e403,0,0,"Dipecah dua bagian, 8192 byte filler di antaranya; tidak ada run kontigu identik source."
+split,PNG_20.png,PNG,76d85ae7ef0fcd070f3a58d01e306420f3a66067a94ba033d9ef03be068628f1,0,0,"Dipecah dua bagian, 8192 byte filler di antaranya; tidak ada run kontigu identik source."
+split,BMP_01.bmp,BMP,7ee03a5521e4951a7b9b47c39f9c2f5c899ebc8a92e50c240b3183e0e30adcf6,0,0,"Dipecah dua bagian, 8192 byte filler di antaranya; tidak ada run kontigu identik source."
+split,BMP_02.bmp,BMP,a4ff60a468e6c5ca6f2ccf3634fd719fedf387d1016a84d7e9d7cf4ca1dd8b77,0,0,"Dipecah dua bagian, 8192 byte filler di antaranya; tidak ada run kontigu identik source."
+split,BMP_03.bmp,BMP,68d5959cd12cbe0eb7d4d3b9f32477b1f1ff1da93b9da9114de36f7ad429e230,0,0,"Dipecah dua bagian, 8192 byte filler di antaranya; tidak ada run kontigu identik source."
+split,BMP_04.bmp,BMP,39d301b835f15bc1d1c08d08e3557ab769e7560460d169fc4cf8e5440ce4bd71,0,0,"Dipecah dua bagian, 8192 byte filler di antaranya; tidak ada run kontigu identik source."
+split,BMP_05.bmp,BMP,5c383f8df57eda48cba178fd258cabb2ecbb405ec5fc08e03352dde17ee5444a,0,0,"Dipecah dua bagian, 8192 byte filler di antaranya; tidak ada run kontigu identik source."
+split,BMP_06.bmp,BMP,6fbcaf8c8d7bb2c93cf9a1d7617eab5ac9cf24fd15d608135850a5e46bff1911,0,0,"Dipecah dua bagian, 8192 byte filler di antaranya; tidak ada run kontigu identik source."
+split,BMP_07.bmp,BMP,3384396f098ba716aceaabc66863f27133dd22dd194baac61748e9d245e34060,0,0,"Dipecah dua bagian, 8192 byte filler di antaranya; tidak ada run kontigu identik source."
+split,BMP_08.bmp,BMP,785191aa79a2aad9c9a258c8cc3070d16c7618314184179b21aff9e21b777f5c,0,0,"Dipecah dua bagian, 8192 byte filler di antaranya; tidak ada run kontigu identik source."
+split,BMP_09.bmp,BMP,062531d77f3a490afbb8167d296083a3294418f610913b1200a04234c8db2376,0,0,"Dipecah dua bagian, 8192 byte filler di antaranya; tidak ada run kontigu identik source."
+split,BMP_10.bmp,BMP,bf48989c535a5b4899edd38cfa471d0710855379f6ec1ad5f3dc10c76b5ca477,0,0,"Dipecah dua bagian, 8192 byte filler di antaranya; tidak ada run kontigu identik source."
+split,BMP_11.bmp,BMP,c7e66b13ec73ae52095124bcb02c013b912bd01aa3593c038a8630ba69133ee3,0,0,"Dipecah dua bagian, 8192 byte filler di antaranya; tidak ada run kontigu identik source."
+split,BMP_12.bmp,BMP,4a2590502f50d9cead6ce3fb8e8e61c17d29c837143bd6c928044ec7dce1e88d,0,0,"Dipecah dua bagian, 8192 byte filler di antaranya; tidak ada run kontigu identik source."
+split,BMP_13.bmp,BMP,dfa74500789a521e939d3d25f2af045005016766e543bf0ac5b271f1fc98c858,0,0,"Dipecah dua bagian, 8192 byte filler di antaranya; tidak ada run kontigu identik source."
+split,BMP_14.bmp,BMP,513dde667c19c8012fc8f8b7b9d6d180fb0987e38a544597f99086198b0dd84f,0,0,"Dipecah dua bagian, 8192 byte filler di antaranya; tidak ada run kontigu identik source."
+split,BMP_15.bmp,BMP,b99ba75abe8169138573d62304698539514152ebd11e942077466f385050eae5,0,0,"Dipecah dua bagian, 8192 byte filler di antaranya; tidak ada run kontigu identik source."
+split,BMP_16.bmp,BMP,1978998aac8b2a43fd6e2167c67d80e3bcb0261269427298f03262618d919e25,0,0,"Dipecah dua bagian, 8192 byte filler di antaranya; tidak ada run kontigu identik source."
+split,BMP_17.bmp,BMP,45beec1d223ca9b02554d8b989ca7119b04d89b58571ab445c868a57f0e140f0,0,0,"Dipecah dua bagian, 8192 byte filler di antaranya; tidak ada run kontigu identik source."
+split,BMP_18.bmp,BMP,3ac1090b5f4dc49f93fbadaf74658c979ceaf1c6c0667b33ebb77cadf7d32207,0,0,"Dipecah dua bagian, 8192 byte filler di antaranya; tidak ada run kontigu identik source."
+split,BMP_19.bmp,BMP,9c9e1e96e8fd09d32c9b156792f90354f3fa9af57c4da57622e8cd2e3a4099ab,0,0,"Dipecah dua bagian, 8192 byte filler di antaranya; tidak ada run kontigu identik source."
+split,BMP_20.bmp,BMP,863640e1a3d84b1306d7640178aca9d9b8ecb8c2663526669cdb7a0c7464acba,0,0,"Dipecah dua bagian, 8192 byte filler di antaranya; tidak ada run kontigu identik source."
+header_damaged,JPEG_01.jpg,JPEG,72f37677a4d2da84edcfca39689ea5379ead2e9cb093fd4060ae24bd66abad4a,0,0,4 byte pertama diganti 0x00; signature header hilang.
+header_damaged,JPEG_02.jpg,JPEG,6d369a242194cd11c4bcfe7ce222363999acaea1b650e057c0b009949c8023dc,0,0,4 byte pertama diganti 0x00; signature header hilang.
+header_damaged,JPEG_03.jpg,JPEG,9bc61b5d5b10410f51ccae9155ebaf7a21df899b49825f4b57a71d6b21cac55f,0,0,4 byte pertama diganti 0x00; signature header hilang.
+header_damaged,JPEG_04.jpg,JPEG,2b2a4620d7b72f39da15c1e077a04305342c351675bdd9bc5527fbb580f54cab,0,0,4 byte pertama diganti 0x00; signature header hilang.
+header_damaged,JPEG_05.jpg,JPEG,46796700f25b9fe5671827e95771501b3f14581705aed7b256f205b782220b83,0,0,4 byte pertama diganti 0x00; signature header hilang.
+header_damaged,JPEG_06.jpg,JPEG,277e89e7478b43bf2a454055fcef0fbbb7ab965faed633a36465edd3c80ff7f9,0,0,4 byte pertama diganti 0x00; signature header hilang.
+header_damaged,JPEG_07.jpg,JPEG,d54dda6280e8ab513751ba6f6622af17ec0a06ddb650b417410519617ec7bd55,0,0,4 byte pertama diganti 0x00; signature header hilang.
+header_damaged,JPEG_08.jpg,JPEG,0b95837a73e63bd263b4672e39d1c6c14917433cacf77f9aade377b4733dc846,0,0,4 byte pertama diganti 0x00; signature header hilang.
+header_damaged,JPEG_09.jpg,JPEG,ca40f45af89d40c3bbae75f30ac92a12905acf42647626ffa71ed2cb15185d21,0,0,4 byte pertama diganti 0x00; signature header hilang.
+header_damaged,JPEG_10.jpg,JPEG,cde5ecc27e1f8c7422363a572083e6e42a7b558a265d9a95386fe7fd82db8eaf,0,0,4 byte pertama diganti 0x00; signature header hilang.
+header_damaged,JPEG_11.jpg,JPEG,c08a92f4e9a9e5270357c3a0aa604b3c50f1bcbe1fec84185021dd39fed65e39,0,0,4 byte pertama diganti 0x00; signature header hilang.
+header_damaged,JPEG_12.jpg,JPEG,d6c4bca4d85a72e25edf460edccdb312efb6c20788b90d1aa43396be24322b3a,0,0,4 byte pertama diganti 0x00; signature header hilang.
+header_damaged,JPEG_13.jpg,JPEG,afb60f344ca0b6f36aff4b3b6cb1c0b39515775d5a167035acf0b3971559e295,0,0,4 byte pertama diganti 0x00; signature header hilang.
+header_damaged,JPEG_14.jpg,JPEG,d425eaca1c5c27aa2e65e9a6c7100e9f7033ff2b999081e1481ec48025fda6a7,0,0,4 byte pertama diganti 0x00; signature header hilang.
+header_damaged,JPEG_15.jpg,JPEG,233fd8904ac70cff1a37a8f09239ec31cd917e9365d2985a61125d33404ce8a8,0,0,4 byte pertama diganti 0x00; signature header hilang.
+header_damaged,JPEG_16.jpg,JPEG,8bc304370ebb35331f4ae19121a5b9698c1ebc4ff32b3ee1e79b1d382eb76042,0,0,4 byte pertama diganti 0x00; signature header hilang.
+header_damaged,JPEG_17.jpg,JPEG,1d089cae5dce9b9096fe8562469054aaead15220c8af7718900042e0cefb1ae7,0,0,4 byte pertama diganti 0x00; signature header hilang.
+header_damaged,JPEG_18.jpg,JPEG,b3604fd9e575a1ff770d73ab372009637e756ee156d4a85c7f00344b90375709,0,0,4 byte pertama diganti 0x00; signature header hilang.
+header_damaged,JPEG_19.jpg,JPEG,b83d541298063ea9dbb4e2d660b386c6fad91960bcd7d714112c2359f70e8a09,0,0,4 byte pertama diganti 0x00; signature header hilang.
+header_damaged,JPEG_20.jpg,JPEG,8a1eee90b97b629ca74ecd2306bb05d997d1210bd90ee75b39a856bb07d7f1fe,0,0,4 byte pertama diganti 0x00; signature header hilang.
+header_damaged,PNG_01.png,PNG,dc93134b51ce19aabb8a511603af5e3b229c869c61e050ee64807720a55a85dc,0,0,4 byte pertama diganti 0x00; signature header hilang.
+header_damaged,PNG_02.png,PNG,6f916a1fde3bc95bb33bac0e5c961f900e88e64d3706349880236da3573b4ec1,0,0,4 byte pertama diganti 0x00; signature header hilang.
+header_damaged,PNG_03.png,PNG,503556e9ebeb3137a394bed1d022c0844b6362e9ca479985437a5f6804a36595,0,0,4 byte pertama diganti 0x00; signature header hilang.
+header_damaged,PNG_04.png,PNG,a99586ed88678d6445aa5be53129e31bbe72ab15b8db2c8567e107be06ccc9ae,0,0,4 byte pertama diganti 0x00; signature header hilang.
+header_damaged,PNG_05.png,PNG,155067f4f7961c3ae21b863861c71d77bb1f4370a0e5278e2d352fb4ed8164e0,0,0,4 byte pertama diganti 0x00; signature header hilang.
+header_damaged,PNG_06.png,PNG,069658b94f6bd279b962ae82c43ace0d055de92bf5610c375f7ff71d4b0e6988,0,0,4 byte pertama diganti 0x00; signature header hilang.
+header_damaged,PNG_07.png,PNG,5a6e4386f9366e45016b409d2602f15d455a153b6c2c1bd6ea7aa60a8c2ec8e7,0,0,4 byte pertama diganti 0x00; signature header hilang.
+header_damaged,PNG_08.png,PNG,01d457d0f4a63e37cebc9c0442dc23c7578c162573a00cbdd07e4fe54b0eee42,0,0,4 byte pertama diganti 0x00; signature header hilang.
+header_damaged,PNG_09.png,PNG,a83ab68e6280314ca2e9041848208c3737d451c46a73f82c0370dfb476ef2da9,0,0,4 byte pertama diganti 0x00; signature header hilang.
+header_damaged,PNG_10.png,PNG,4a477acb8af75af4c81da30ba2bed95a75b8373a3b00d0c1cb40dfdc066847b4,0,0,4 byte pertama diganti 0x00; signature header hilang.
+header_damaged,PNG_11.png,PNG,956707b789af701241ba65e95f1823eaccc391d3aaa63569aeb78628db341e54,0,0,4 byte pertama diganti 0x00; signature header hilang.
+header_damaged,PNG_12.png,PNG,01213c1ac50df0821d0e6b807cd4cfbfeafaee153b70d04dec19ecc33e4f79a7,0,0,4 byte pertama diganti 0x00; signature header hilang.
+header_damaged,PNG_13.png,PNG,d3d3626ae2d243fbd0cf2da0f2e4f784949fd337493c431a5f95e7d55df92f95,0,0,4 byte pertama diganti 0x00; signature header hilang.
+header_damaged,PNG_14.png,PNG,64860f872761ab3e5691be5d1ff63addca32edc28e88235a4a3bfed3da4502cc,0,0,4 byte pertama diganti 0x00; signature header hilang.
+header_damaged,PNG_15.png,PNG,56f8e12ccd40f3b0fa616288db73cd5ace567a81e31bb57aab15e05a8ac59458,0,0,4 byte pertama diganti 0x00; signature header hilang.
+header_damaged,PNG_16.png,PNG,de71d7143c4ae09bd2c9a3150a8ee891225b5995ee27f39cc98537fdaed3c410,0,0,4 byte pertama diganti 0x00; signature header hilang.
+header_damaged,PNG_17.png,PNG,20c932c4e535477d85fd5b5cfab9c33973031480102c7194a9684c32017b3b06,0,0,4 byte pertama diganti 0x00; signature header hilang.
+header_damaged,PNG_18.png,PNG,b20b59eff9e59a7eab38f1eeedc41a7427510fd3c5bc365f1e96a3b9e4da771c,0,0,4 byte pertama diganti 0x00; signature header hilang.
+header_damaged,PNG_19.png,PNG,7d30c7bd067cab029698e3b615e6df3ac277826e57ff2f5fcc9bef1651c6e403,0,0,4 byte pertama diganti 0x00; signature header hilang.
+header_damaged,PNG_20.png,PNG,76d85ae7ef0fcd070f3a58d01e306420f3a66067a94ba033d9ef03be068628f1,0,0,4 byte pertama diganti 0x00; signature header hilang.
+header_damaged,BMP_01.bmp,BMP,7ee03a5521e4951a7b9b47c39f9c2f5c899ebc8a92e50c240b3183e0e30adcf6,0,0,4 byte pertama diganti 0x00; signature header hilang.
+header_damaged,BMP_02.bmp,BMP,a4ff60a468e6c5ca6f2ccf3634fd719fedf387d1016a84d7e9d7cf4ca1dd8b77,0,0,4 byte pertama diganti 0x00; signature header hilang.
+header_damaged,BMP_03.bmp,BMP,68d5959cd12cbe0eb7d4d3b9f32477b1f1ff1da93b9da9114de36f7ad429e230,0,0,4 byte pertama diganti 0x00; signature header hilang.
+header_damaged,BMP_04.bmp,BMP,39d301b835f15bc1d1c08d08e3557ab769e7560460d169fc4cf8e5440ce4bd71,0,0,4 byte pertama diganti 0x00; signature header hilang.
+header_damaged,BMP_05.bmp,BMP,5c383f8df57eda48cba178fd258cabb2ecbb405ec5fc08e03352dde17ee5444a,0,0,4 byte pertama diganti 0x00; signature header hilang.
+header_damaged,BMP_06.bmp,BMP,6fbcaf8c8d7bb2c93cf9a1d7617eab5ac9cf24fd15d608135850a5e46bff1911,0,0,4 byte pertama diganti 0x00; signature header hilang.
+header_damaged,BMP_07.bmp,BMP,3384396f098ba716aceaabc66863f27133dd22dd194baac61748e9d245e34060,0,0,4 byte pertama diganti 0x00; signature header hilang.
+header_damaged,BMP_08.bmp,BMP,785191aa79a2aad9c9a258c8cc3070d16c7618314184179b21aff9e21b777f5c,0,0,4 byte pertama diganti 0x00; signature header hilang.
+header_damaged,BMP_09.bmp,BMP,062531d77f3a490afbb8167d296083a3294418f610913b1200a04234c8db2376,0,0,4 byte pertama diganti 0x00; signature header hilang.
+header_damaged,BMP_10.bmp,BMP,bf48989c535a5b4899edd38cfa471d0710855379f6ec1ad5f3dc10c76b5ca477,0,0,4 byte pertama diganti 0x00; signature header hilang.
+header_damaged,BMP_11.bmp,BMP,c7e66b13ec73ae52095124bcb02c013b912bd01aa3593c038a8630ba69133ee3,0,0,4 byte pertama diganti 0x00; signature header hilang.
+header_damaged,BMP_12.bmp,BMP,4a2590502f50d9cead6ce3fb8e8e61c17d29c837143bd6c928044ec7dce1e88d,0,0,4 byte pertama diganti 0x00; signature header hilang.
+header_damaged,BMP_13.bmp,BMP,dfa74500789a521e939d3d25f2af045005016766e543bf0ac5b271f1fc98c858,0,0,4 byte pertama diganti 0x00; signature header hilang.
+header_damaged,BMP_14.bmp,BMP,513dde667c19c8012fc8f8b7b9d6d180fb0987e38a544597f99086198b0dd84f,0,0,4 byte pertama diganti 0x00; signature header hilang.
+header_damaged,BMP_15.bmp,BMP,b99ba75abe8169138573d62304698539514152ebd11e942077466f385050eae5,0,0,4 byte pertama diganti 0x00; signature header hilang.
+header_damaged,BMP_16.bmp,BMP,1978998aac8b2a43fd6e2167c67d80e3bcb0261269427298f03262618d919e25,0,0,4 byte pertama diganti 0x00; signature header hilang.
+header_damaged,BMP_17.bmp,BMP,45beec1d223ca9b02554d8b989ca7119b04d89b58571ab445c868a57f0e140f0,0,0,4 byte pertama diganti 0x00; signature header hilang.
+header_damaged,BMP_18.bmp,BMP,3ac1090b5f4dc49f93fbadaf74658c979ceaf1c6c0667b33ebb77cadf7d32207,0,0,4 byte pertama diganti 0x00; signature header hilang.
+header_damaged,BMP_19.bmp,BMP,9c9e1e96e8fd09d32c9b156792f90354f3fa9af57c4da57622e8cd2e3a4099ab,0,0,4 byte pertama diganti 0x00; signature header hilang.
+header_damaged,BMP_20.bmp,BMP,863640e1a3d84b1306d7640178aca9d9b8ecb8c2663526669cdb7a0c7464acba,0,0,4 byte pertama diganti 0x00; signature header hilang.
+truncated,JPEG_01.jpg,JPEG,72f37677a4d2da84edcfca39689ea5379ead2e9cb093fd4060ae24bd66abad4a,0,0,10% bagian akhir dibuang; file tidak lengkap.
+truncated,JPEG_02.jpg,JPEG,6d369a242194cd11c4bcfe7ce222363999acaea1b650e057c0b009949c8023dc,0,0,10% bagian akhir dibuang; file tidak lengkap.
+truncated,JPEG_03.jpg,JPEG,9bc61b5d5b10410f51ccae9155ebaf7a21df899b49825f4b57a71d6b21cac55f,0,0,10% bagian akhir dibuang; file tidak lengkap.
+truncated,JPEG_04.jpg,JPEG,2b2a4620d7b72f39da15c1e077a04305342c351675bdd9bc5527fbb580f54cab,0,0,10% bagian akhir dibuang; file tidak lengkap.
+truncated,JPEG_05.jpg,JPEG,46796700f25b9fe5671827e95771501b3f14581705aed7b256f205b782220b83,0,0,10% bagian akhir dibuang; file tidak lengkap.
+truncated,JPEG_06.jpg,JPEG,277e89e7478b43bf2a454055fcef0fbbb7ab965faed633a36465edd3c80ff7f9,0,0,10% bagian akhir dibuang; file tidak lengkap.
+truncated,JPEG_07.jpg,JPEG,d54dda6280e8ab513751ba6f6622af17ec0a06ddb650b417410519617ec7bd55,0,0,10% bagian akhir dibuang; file tidak lengkap.
+truncated,JPEG_08.jpg,JPEG,0b95837a73e63bd263b4672e39d1c6c14917433cacf77f9aade377b4733dc846,0,0,10% bagian akhir dibuang; file tidak lengkap.
+truncated,JPEG_09.jpg,JPEG,ca40f45af89d40c3bbae75f30ac92a12905acf42647626ffa71ed2cb15185d21,0,0,10% bagian akhir dibuang; file tidak lengkap.
+truncated,JPEG_10.jpg,JPEG,cde5ecc27e1f8c7422363a572083e6e42a7b558a265d9a95386fe7fd82db8eaf,0,0,10% bagian akhir dibuang; file tidak lengkap.
+truncated,JPEG_11.jpg,JPEG,c08a92f4e9a9e5270357c3a0aa604b3c50f1bcbe1fec84185021dd39fed65e39,0,0,10% bagian akhir dibuang; file tidak lengkap.
+truncated,JPEG_12.jpg,JPEG,d6c4bca4d85a72e25edf460edccdb312efb6c20788b90d1aa43396be24322b3a,0,0,10% bagian akhir dibuang; file tidak lengkap.
+truncated,JPEG_13.jpg,JPEG,afb60f344ca0b6f36aff4b3b6cb1c0b39515775d5a167035acf0b3971559e295,0,0,10% bagian akhir dibuang; file tidak lengkap.
+truncated,JPEG_14.jpg,JPEG,d425eaca1c5c27aa2e65e9a6c7100e9f7033ff2b999081e1481ec48025fda6a7,0,0,10% bagian akhir dibuang; file tidak lengkap.
+truncated,JPEG_15.jpg,JPEG,233fd8904ac70cff1a37a8f09239ec31cd917e9365d2985a61125d33404ce8a8,0,0,10% bagian akhir dibuang; file tidak lengkap.
+truncated,JPEG_16.jpg,JPEG,8bc304370ebb35331f4ae19121a5b9698c1ebc4ff32b3ee1e79b1d382eb76042,0,0,10% bagian akhir dibuang; file tidak lengkap.
+truncated,JPEG_17.jpg,JPEG,1d089cae5dce9b9096fe8562469054aaead15220c8af7718900042e0cefb1ae7,0,0,10% bagian akhir dibuang; file tidak lengkap.
+truncated,JPEG_18.jpg,JPEG,b3604fd9e575a1ff770d73ab372009637e756ee156d4a85c7f00344b90375709,0,0,10% bagian akhir dibuang; file tidak lengkap.
+truncated,JPEG_19.jpg,JPEG,b83d541298063ea9dbb4e2d660b386c6fad91960bcd7d714112c2359f70e8a09,0,0,10% bagian akhir dibuang; file tidak lengkap.
+truncated,JPEG_20.jpg,JPEG,8a1eee90b97b629ca74ecd2306bb05d997d1210bd90ee75b39a856bb07d7f1fe,0,0,10% bagian akhir dibuang; file tidak lengkap.
+truncated,PNG_01.png,PNG,dc93134b51ce19aabb8a511603af5e3b229c869c61e050ee64807720a55a85dc,0,0,10% bagian akhir dibuang; file tidak lengkap.
+truncated,PNG_02.png,PNG,6f916a1fde3bc95bb33bac0e5c961f900e88e64d3706349880236da3573b4ec1,0,0,10% bagian akhir dibuang; file tidak lengkap.
+truncated,PNG_03.png,PNG,503556e9ebeb3137a394bed1d022c0844b6362e9ca479985437a5f6804a36595,0,0,10% bagian akhir dibuang; file tidak lengkap.
+truncated,PNG_04.png,PNG,a99586ed88678d6445aa5be53129e31bbe72ab15b8db2c8567e107be06ccc9ae,0,0,10% bagian akhir dibuang; file tidak lengkap.
+truncated,PNG_05.png,PNG,155067f4f7961c3ae21b863861c71d77bb1f4370a0e5278e2d352fb4ed8164e0,0,0,10% bagian akhir dibuang; file tidak lengkap.
+truncated,PNG_06.png,PNG,069658b94f6bd279b962ae82c43ace0d055de92bf5610c375f7ff71d4b0e6988,0,0,10% bagian akhir dibuang; file tidak lengkap.
+truncated,PNG_07.png,PNG,5a6e4386f9366e45016b409d2602f15d455a153b6c2c1bd6ea7aa60a8c2ec8e7,0,0,10% bagian akhir dibuang; file tidak lengkap.
+truncated,PNG_08.png,PNG,01d457d0f4a63e37cebc9c0442dc23c7578c162573a00cbdd07e4fe54b0eee42,0,0,10% bagian akhir dibuang; file tidak lengkap.
+truncated,PNG_09.png,PNG,a83ab68e6280314ca2e9041848208c3737d451c46a73f82c0370dfb476ef2da9,0,0,10% bagian akhir dibuang; file tidak lengkap.
+truncated,PNG_10.png,PNG,4a477acb8af75af4c81da30ba2bed95a75b8373a3b00d0c1cb40dfdc066847b4,0,0,10% bagian akhir dibuang; file tidak lengkap.
+truncated,PNG_11.png,PNG,956707b789af701241ba65e95f1823eaccc391d3aaa63569aeb78628db341e54,0,0,10% bagian akhir dibuang; file tidak lengkap.
+truncated,PNG_12.png,PNG,01213c1ac50df0821d0e6b807cd4cfbfeafaee153b70d04dec19ecc33e4f79a7,0,0,10% bagian akhir dibuang; file tidak lengkap.
+truncated,PNG_13.png,PNG,d3d3626ae2d243fbd0cf2da0f2e4f784949fd337493c431a5f95e7d55df92f95,0,0,10% bagian akhir dibuang; file tidak lengkap.
+truncated,PNG_14.png,PNG,64860f872761ab3e5691be5d1ff63addca32edc28e88235a4a3bfed3da4502cc,0,0,10% bagian akhir dibuang; file tidak lengkap.
+truncated,PNG_15.png,PNG,56f8e12ccd40f3b0fa616288db73cd5ace567a81e31bb57aab15e05a8ac59458,0,0,10% bagian akhir dibuang; file tidak lengkap.
+truncated,PNG_16.png,PNG,de71d7143c4ae09bd2c9a3150a8ee891225b5995ee27f39cc98537fdaed3c410,0,0,10% bagian akhir dibuang; file tidak lengkap.
+truncated,PNG_17.png,PNG,20c932c4e535477d85fd5b5cfab9c33973031480102c7194a9684c32017b3b06,0,0,10% bagian akhir dibuang; file tidak lengkap.
+truncated,PNG_18.png,PNG,b20b59eff9e59a7eab38f1eeedc41a7427510fd3c5bc365f1e96a3b9e4da771c,0,0,10% bagian akhir dibuang; file tidak lengkap.
+truncated,PNG_19.png,PNG,7d30c7bd067cab029698e3b615e6df3ac277826e57ff2f5fcc9bef1651c6e403,0,0,10% bagian akhir dibuang; file tidak lengkap.
+truncated,PNG_20.png,PNG,76d85ae7ef0fcd070f3a58d01e306420f3a66067a94ba033d9ef03be068628f1,0,0,10% bagian akhir dibuang; file tidak lengkap.
+truncated,BMP_01.bmp,BMP,7ee03a5521e4951a7b9b47c39f9c2f5c899ebc8a92e50c240b3183e0e30adcf6,0,0,10% bagian akhir dibuang; file tidak lengkap.
+truncated,BMP_02.bmp,BMP,a4ff60a468e6c5ca6f2ccf3634fd719fedf387d1016a84d7e9d7cf4ca1dd8b77,0,0,10% bagian akhir dibuang; file tidak lengkap.
+truncated,BMP_03.bmp,BMP,68d5959cd12cbe0eb7d4d3b9f32477b1f1ff1da93b9da9114de36f7ad429e230,0,0,10% bagian akhir dibuang; file tidak lengkap.
+truncated,BMP_04.bmp,BMP,39d301b835f15bc1d1c08d08e3557ab769e7560460d169fc4cf8e5440ce4bd71,0,0,10% bagian akhir dibuang; file tidak lengkap.
+truncated,BMP_05.bmp,BMP,5c383f8df57eda48cba178fd258cabb2ecbb405ec5fc08e03352dde17ee5444a,0,0,10% bagian akhir dibuang; file tidak lengkap.
+truncated,BMP_06.bmp,BMP,6fbcaf8c8d7bb2c93cf9a1d7617eab5ac9cf24fd15d608135850a5e46bff1911,0,0,10% bagian akhir dibuang; file tidak lengkap.
+truncated,BMP_07.bmp,BMP,3384396f098ba716aceaabc66863f27133dd22dd194baac61748e9d245e34060,0,0,10% bagian akhir dibuang; file tidak lengkap.
+truncated,BMP_08.bmp,BMP,785191aa79a2aad9c9a258c8cc3070d16c7618314184179b21aff9e21b777f5c,0,0,10% bagian akhir dibuang; file tidak lengkap.
+truncated,BMP_09.bmp,BMP,062531d77f3a490afbb8167d296083a3294418f610913b1200a04234c8db2376,0,0,10% bagian akhir dibuang; file tidak lengkap.
+truncated,BMP_10.bmp,BMP,bf48989c535a5b4899edd38cfa471d0710855379f6ec1ad5f3dc10c76b5ca477,0,0,10% bagian akhir dibuang; file tidak lengkap.
+truncated,BMP_11.bmp,BMP,c7e66b13ec73ae52095124bcb02c013b912bd01aa3593c038a8630ba69133ee3,0,0,10% bagian akhir dibuang; file tidak lengkap.
+truncated,BMP_12.bmp,BMP,4a2590502f50d9cead6ce3fb8e8e61c17d29c837143bd6c928044ec7dce1e88d,0,0,10% bagian akhir dibuang; file tidak lengkap.
+truncated,BMP_13.bmp,BMP,dfa74500789a521e939d3d25f2af045005016766e543bf0ac5b271f1fc98c858,0,0,10% bagian akhir dibuang; file tidak lengkap.
+truncated,BMP_14.bmp,BMP,513dde667c19c8012fc8f8b7b9d6d180fb0987e38a544597f99086198b0dd84f,0,0,10% bagian akhir dibuang; file tidak lengkap.
+truncated,BMP_15.bmp,BMP,b99ba75abe8169138573d62304698539514152ebd11e942077466f385050eae5,0,0,10% bagian akhir dibuang; file tidak lengkap.
+truncated,BMP_16.bmp,BMP,1978998aac8b2a43fd6e2167c67d80e3bcb0261269427298f03262618d919e25,0,0,10% bagian akhir dibuang; file tidak lengkap.
+truncated,BMP_17.bmp,BMP,45beec1d223ca9b02554d8b989ca7119b04d89b58571ab445c868a57f0e140f0,0,0,10% bagian akhir dibuang; file tidak lengkap.
+truncated,BMP_18.bmp,BMP,3ac1090b5f4dc49f93fbadaf74658c979ceaf1c6c0667b33ebb77cadf7d32207,0,0,10% bagian akhir dibuang; file tidak lengkap.
+truncated,BMP_19.bmp,BMP,9c9e1e96e8fd09d32c9b156792f90354f3fa9af57c4da57622e8cd2e3a4099ab,0,0,10% bagian akhir dibuang; file tidak lengkap.
+truncated,BMP_20.bmp,BMP,863640e1a3d84b1306d7640178aca9d9b8ecb8c2663526669cdb7a0c7464acba,0,0,10% bagian akhir dibuang; file tidak lengkap.

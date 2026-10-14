@@ -1,0 +1,132 @@
+
+Using locale 'C.UTF-8'.
+
+
+Wed Oct 14 12:11:35 2026
+Command line: PhotoRec /log D:\!Tugass\semester 5\FORENSIK DIGITAL\kelompok\DF05_Kelompok5\03_CONTAINERS\contiguous.dd
+
+PhotoRec 7.2, Data Recovery Utility, February 2024
+Christophe GRENIER <grenier@cgsecurity.org>
+https://www.cgsecurity.org
+OS: Windows 8 (9200)
+Compiler: GCC 11.2, Cygwin 3001.4
+ext2fs lib: 1.45.3, ntfs lib: available, ewf lib: 20140608, libjpeg: libjpeg-turbo-1.5.3, curses lib: ncurses 6.1
+Hard disk list
+Disk D:\!Tugass\semester 5\FORENSIK DIGITAL\kelompok\DF05_Kelompok5\03_CONTAINERS\contiguous.dd - 9107 KB / 8894 KiB - CHS 2 25, sector size=512
+
+Can't open photorec.ses file: No such file or directory
+Partition table type defaults to None
+   P Unknown                  0   0  1     1  27 23      17788
+SIGINT detected! PhotoRec has been killed.
+
+Partition table type defaults to None
+   P Unknown                  0   0  1     1  27 23      17788
+
+Partition table type defaults to None
+   P Unknown                  0   0  1     1  27 23      17788
+
+Partition table type defaults to None
+   P Unknown                  0   0  1     1  27 23      17788
+
+Partition table type defaults to None
+   P Unknown                  0   0  1     1  27 23      17788
+
+Partition table type defaults to None
+   P Unknown                  0   0  1     1  27 23      17788
+
+Partition table type defaults to None
+   P Unknown                  0   0  1     1  27 23      17788
+
+Partition table type defaults to None
+   P Unknown                  0   0  1     1  27 23      17788
+
+PhotoRec exited normally.
+
+Using locale 'C.UTF-8'.
+
+
+Wed Oct 14 12:18:07 2026
+Command line: PhotoRec /log D:\!Tugass\semester 5\FORENSIK DIGITAL\kelompok\DF05_Kelompok5\03_CONTAINERS\contiguous.dd
+
+PhotoRec 7.2, Data Recovery Utility, February 2024
+Christophe GRENIER <grenier@cgsecurity.org>
+https://www.cgsecurity.org
+OS: Windows 8 (9200)
+Compiler: GCC 11.2, Cygwin 3001.4
+ext2fs lib: 1.45.3, ntfs lib: available, ewf lib: 20140608, libjpeg: libjpeg-turbo-1.5.3, curses lib: ncurses 6.1
+Hard disk list
+Disk D:\!Tugass\semester 5\FORENSIK DIGITAL\kelompok\DF05_Kelompok5\03_CONTAINERS\contiguous.dd - 9107 KB / 8894 KiB - CHS 2 25, sector size=512
+
+Can't open photorec.ses file: No such file or directory
+Partition table type defaults to None
+   P Unknown                  0   0  1     1  27 23      17788
+
+Interface File Select
+New options :
+ Paranoid : Yes
+ Brute force : No
+ Keep corrupted files : No
+ ext2/ext3 mode : No
+ Expert mode : No
+ Low memory : No
+
+Interface File Select
+
+Interface File Select
+Create file C:\Users\HP 430 G7\photorec.cfg
+Settings recorded successfully.5 first-level signatures enabled
+
+Analyse
+   P Unknown                  0   0  1     1  27 23      17788
+Pass 0 (blocksize=512) STATUS_FIND_OFFSET
+blocksize=65536, offset=0
+Elapsed time 0h00m00s
+Pass 1 (blocksize=65536) STATUS_EXT2_OFF
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.1/f0000000.bmp	 0-767
+Elapsed time 0h00m00s
+Pass 1 +1 file
+bmp: 1/1 recovered
+Total: 1 file found
+
+17024 sectors contain unknown data, 0 invalid files found and rejected.
+
+Interface File Select
+5 first-level signatures enabled
+
+Analyse
+   P Unknown                  0   0  1     1  27 23      17788
+Pass 0 (blocksize=512) STATUS_FIND_OFFSET
+blocksize=65536, offset=0
+Elapsed time 0h00m00s
+Pass 1 (blocksize=65536) STATUS_EXT2_OFF
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.2/f0000000.bmp	 0-767
+Elapsed time 0h00m00s
+Pass 1 +1 file
+bmp: 1/1 recovered
+Total: 1 file found
+
+17024 sectors contain unknown data, 0 invalid files found and rejected.
+New options :
+ Paranoid : Yes
+ Brute force : No
+ Keep corrupted files : No
+ ext2/ext3 mode : No
+ Expert mode : No
+ Low memory : No
+
+Interface File Select
+5 first-level signatures enabled
+
+Analyse
+   P Unknown                  0   0  1     1  27 23      17788
+Pass 0 (blocksize=512) STATUS_FIND_OFFSET
+blocksize=65536, offset=0
+Elapsed time 0h00m00s
+Pass 1 (blocksize=65536) STATUS_EXT2_OFF
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.3/f0000000.bmp	 0-767
+Elapsed time 0h00m00s
+Pass 1 +1 file
+bmp: 1/1 recovered
+Total: 1 file found
+
+17024 sectors contain unknown data, 0 invalid files found and rejected.

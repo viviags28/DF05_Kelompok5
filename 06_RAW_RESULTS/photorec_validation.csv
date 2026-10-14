@@ -1,0 +1,4 @@
+path,size_bytes,sha256,pillow_format,valid_image,error
+04_PHOTOREC\.gitkeep,0,e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855,UNKNOWN,0,cannot identify image file '04_PHOTOREC\\.gitkeep'
+04_PHOTOREC\pilot\contiguous\recup_dir.1\f0000000.bmp,331830,7ee03a5521e4951a7b9b47c39f9c2f5c899ebc8a92e50c240b3183e0e30adcf6,BMP,1,
+04_PHOTOREC\pilot\contiguous\recup_dir.1\report.xml,1602,b94ae90fe280d692f2b2fda4f9b3007e7482a30b3fdb8b480e6d346b180a3319,UNKNOWN,0,cannot identify image file '04_PHOTOREC\\pilot\\contiguous\\recup_dir.1\\report.xml'

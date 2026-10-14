@@ -1,0 +1,4 @@
+case_id,container,condition,tool,carved_filename,opens_ok,hash_match,tp,fp
+PILOT-01,recup_dir.1.dd,recup_dir.1,PhotoRec 7.2,f0000000.bmp,1,0,1,0
+PILOT-02,recup_dir.1.dd,recup_dir.1,PhotoRec 7.2,f0000000.bmp,1,0,1,0
+PILOT-03,recup_dir.1.dd,recup_dir.1,PhotoRec 7.2,f0000000.bmp,1,1,1,0
