@@ -5,8 +5,10 @@ from PIL import Image
 from pathlib import Path
 
 ROOT_DIR = Path.cwd()
-# Path mengarah langsung ke folder hasil ekstraksi Autopsy kamu
+# Path Folder Hasil Kedua Alat
+PHOTOREC_DIR = ROOT_DIR / '04_PHOTOREC' / 'v2_main'
 AUTOPSY_DIR = ROOT_DIR / '05_TOOL2' / 'DF05_Main_Experiment_Week4'
+
 MANIFEST_CSV = ROOT_DIR / '02_GROUND_TRUTH' / 'source_manifest.csv'
 OUTPUT_CSV = ROOT_DIR / '07_ANALYSIS' / 'main_results.csv'
 
@@ -21,22 +23,49 @@ def calculate_sha256(filepath):
         return None
 
 def check_image_validity(filepath):
-    """Mengecek keabsahan gambar dengan verify() DAN load() untuk mendeteksi truncation"""
     try:
-        # Step 1: Shallow check (Header)
         with Image.open(filepath) as img:
             img.verify()
-        
-        # Step 2: Deep check (Pixel decoding)
         with Image.open(filepath) as img2:
             img2.load()
-            
         return 1
     except Exception:
         return 0
 
+def scan_tool_results(base_dir, tool_name, gt_hashes):
+    results = []
+    valid_extensions = {'.jpg', '.jpeg', '.png', '.bmp'}
+    
+    if not base_dir.exists():
+        print(f"[WARN] Folder {base_dir} tidak ditemukan, melewatinya...")
+        return results
+
+    carved_files = [p for p in base_dir.rglob('.') if p.suffix.lower() in valid_extensions]
+    print(f"Menganalisis {len(carved_files)} file dari {tool_name}...")
+
+    for filepath in carved_files:
+        condition_folder = filepath.parents[1].name if filepath.parent.name.startswith('recup_dir') else filepath.parent.name
+        
+        file_hash = calculate_sha256(filepath)
+        opens_ok = check_image_validity(filepath)
+        
+        hash_match = 1 if (file_hash and file_hash.lower() in gt_hashes) else 0
+        tp = 1 if hash_match == 1 else 0
+        fp = 1 if tp == 0 else 0
+
+        results.append({
+            'container': f'{condition_folder}.dd',
+            'condition': condition_folder,
+            'tool': tool_name,
+            'carved_filename': filepath.name,
+            'opens_ok': opens_ok,
+            'hash_match': hash_match,
+            'tp': tp,
+            'fp': fp
+        })
+    return results
+
 def main():
-    # 1. Baca manifest ground truth
     gt_hashes = set()
     if MANIFEST_CSV.exists():
         with open(MANIFEST_CSV, mode='r', encoding='utf-8') as f:
@@ -44,47 +73,27 @@ def main():
             for row in reader:
                 gt_hashes.add(row['sha256'].lower())
 
-    results = []
+    all_results = []
+    
+    # 1. Pindai Hasil PhotoRec
+    all_results.extend(scan_tool_results(PHOTOREC_DIR, 'PhotoRec 7.2', gt_hashes))
+    
+    # 2. Pindai Hasil Autopsy
+    all_results.extend(scan_tool_results(AUTOPSY_DIR, 'Autopsy 4.23.1', gt_hashes))
+
+    # Beri nomor case_id otomatis
+    for i, row in enumerate(all_results, start=1):
+        row['case_id'] = f'MAIN-{i:04d}'
+
     headers = ['case_id', 'container', 'condition', 'tool', 'carved_filename', 'opens_ok', 'hash_match', 'tp', 'fp']
-    valid_extensions = {'.jpg', '.jpeg', '.png', '.bmp'}
-
-    # 2. Sisir seluruh file gambar di dalam subfolder Autopsy
-    carved_files = [p for p in AUTOPSY_DIR.rglob('*.*') if p.suffix.lower() in valid_extensions]
-
-    print(f"Menganalisis {len(carved_files)} file gambar hasil ekstraksi Autopsy...")
-
-    for i, filepath in enumerate(carved_files, start=1):
-        # Mengambil nama subfolder kondisi (contiguous, split, header_damaged, truncated)
-        condition_folder = filepath.parent.name
-        
-        file_hash = calculate_sha256(filepath)
-        opens_ok = check_image_validity(filepath)
-        
-        # Evaluasi forensik: Hash Match jika SHA256 ada di source manifest
-        hash_match = 1 if (file_hash and file_hash.lower() in gt_hashes) else 0
-        tp = 1 if hash_match == 1 else 0
-        fp = 1 if tp == 0 else 0
-
-        results.append({
-            'case_id': f'AUTO-{i:03d}',
-            'container': f'{condition_folder}.dd',
-            'condition': condition_folder,
-            'tool': 'Autopsy 4.23.1',
-            'carved_filename': filepath.name,
-            'opens_ok': opens_ok,
-            'hash_match': hash_match,
-            'tp': tp,
-            'fp': fp
-        })
-
-    # 3. Simpan seluruh hasil ke main_results.csv
+    
     OUTPUT_CSV.parent.mkdir(exist_ok=True)
     with open(OUTPUT_CSV, mode='w', newline='', encoding='utf-8') as f:
         writer = csv.DictWriter(f, fieldnames=headers)
         writer.writeheader()
-        writer.writerows(results)
+        writer.writerows(all_results)
 
-    print(f"[SUCCESS] Validasi Main Experiment Selesai! Total file dianalisis: {len(results)}. Output: {OUTPUT_CSV}")
+    print(f"[SUCCESS] Validasi Gabungan Selesai! Total file dianalisis: {len(all_results)}. Saved to: {OUTPUT_CSV}")
 
 if __name__ == "__main__":
     main()
