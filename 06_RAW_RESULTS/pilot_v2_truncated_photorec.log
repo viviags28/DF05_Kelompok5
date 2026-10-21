@@ -1,0 +1,149 @@
+
+Using locale 'C.UTF-8'.
+
+
+Wed Oct 21 11:20:08 2026
+Command line: PhotoRec /log D:\!Tugass\semester 5\FORENSIK DIGITAL\kelompok\DF05_Kelompok5\03_CONTAINERS\split.dd
+
+PhotoRec 7.2, Data Recovery Utility, February 2024
+Christophe GRENIER <grenier@cgsecurity.org>
+https://www.cgsecurity.org
+OS: Windows 8 (9200)
+Compiler: GCC 11.2, Cygwin 3001.4
+ext2fs lib: 1.45.3, ntfs lib: available, ewf lib: 20140608, libjpeg: libjpeg-turbo-1.5.3, curses lib: ncurses 6.1
+Hard disk list
+Disk D:\!Tugass\semester 5\FORENSIK DIGITAL\kelompok\DF05_Kelompok5\03_CONTAINERS\split.dd - 9895 KB / 9664 KiB - CHS 2 255 63 , sector size=512
+
+Load parameters from C:\Users\HP 430 G7\photorec.cfg
+Can't open photorec.ses file: No such file or directory
+Partition table type defaults to None
+   P Unknown                  0   0  1     1  51 50      19328
+
+Interface File Select
+Create file C:\Users\HP 430 G7\photorec.cfg
+Settings recorded successfully.5 first-level signatures enabled
+
+Analyse
+   P Unknown                  0   0  1     1  51 50      19328
+Pass 0 (blocksize=512) STATUS_FIND_OFFSET
+blocksize=4096, offset=0
+Elapsed time 0h00m00s
+Pass 1 (blocksize=4096) STATUS_EXT2_OFF
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/split/recup_dir.2/f0000000.bmp	 0-655
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/split/recup_dir.2/f0000680.bmp	 680-1567
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/split/recup_dir.2/f0001600.bmp	 1600-2759
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/split/recup_dir.2/f0002792.bmp	 2792-3607
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/split/recup_dir.2/f0003632.bmp	 3632-4175
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/split/recup_dir.2/f0004200.bmp	 4200-4959
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/split/recup_dir.2/f0004992.bmp	 4992-6007
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/split/recup_dir.2/f0006040.bmp	 6040-6767
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/split/recup_dir.2/f0006800.bmp	 6800-7775
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/split/recup_dir.2/f0007800.bmp	 7800-8431
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/split/recup_dir.2/f0008464.bmp	 8464-9335
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/split/recup_dir.2/f0009368.bmp	 9368-9999
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/split/recup_dir.2/f0010032.bmp	 10032-10903
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/split/recup_dir.2/f0010936.bmp	 10936-12071
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/split/recup_dir.2/f0012096.bmp	 12096-12823
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/split/recup_dir.2/f0012856.bmp	 12856-13399
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/split/recup_dir.2/f0013424.bmp	 13424-14183
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/split/recup_dir.2/f0014216.bmp	 14216-15231
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/split/recup_dir.2/f0015264.bmp	 15264-16567
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/split/recup_dir.2/f0016600.bmp	 16600-17055
+Elapsed time 0h00m00s
+Pass 1 +20 files
+bmp: 20/20 recovered
+jpg: 0/20 recovered
+png: 0/20 recovered
+Total: 20 files found
+
+2832 sectors contain unknown data, 40 invalid files found and rejected.
+
+PhotoRec exited normally.
+
+Using locale 'C.UTF-8'.
+
+
+Wed Oct 21 11:22:17 2026
+Command line: PhotoRec /log D:\!Tugass\semester 5\FORENSIK DIGITAL\kelompok\DF05_Kelompok5\03_CONTAINERS\header_damaged.dd
+
+PhotoRec 7.2, Data Recovery Utility, February 2024
+Christophe GRENIER <grenier@cgsecurity.org>
+https://www.cgsecurity.org
+OS: Windows 8 (9200)
+Compiler: GCC 11.2, Cygwin 3001.4
+ext2fs lib: 1.45.3, ntfs lib: available, ewf lib: 20140608, libjpeg: libjpeg-turbo-1.5.3, curses lib: ncurses 6.1
+Hard disk list
+Disk D:\!Tugass\semester 5\FORENSIK DIGITAL\kelompok\DF05_Kelompok5\03_CONTAINERS\header_damaged.dd - 9228 KB / 9012 KiB - CHS , sector size=512
+
+Load parameters from C:\Users\HP 430 G7\photorec.cfg
+Can't open photorec.ses file: No such file or directory
+Partition table type defaults to None
+   P Unknown                  0   0  1     1  31  6      18024
+
+Interface File Select
+5 first-level signatures enabled
+
+Analyse
+   P Unknown                  0   0  1     1  31  6      18024
+Pass 0 (blocksize=512) STATUS_FIND_OFFSET
+blocksize=65536, offset=0
+Elapsed time 0h00m00s
+Pass 1 (blocksize=65536) STATUS_EXT2_OFF
+Elapsed time 0h00m00s
+Pass 1 +0 file
+Total: 0 files found
+
+18048 sectors contain unknown data, 0 invalid files found and rejected.
+
+PhotoRec exited normally.
+
+Using locale 'C.UTF-8'.
+
+
+Wed Oct 21 11:23:17 2026
+Command line: PhotoRec /log
+
+PhotoRec 7.2, Data Recovery Utility, February 2024
+Christophe GRENIER <grenier@cgsecurity.org>
+https://www.cgsecurity.org
+OS: Windows 8 (9200)
+Compiler: GCC 11.2, Cygwin 3001.4
+ext2fs lib: 1.45.3, ntfs lib: available, ewf lib: 20140608, libjpeg: libjpeg-turbo-1.5.3, curses lib: ncurses 6.1
+
+Using locale 'C.UTF-8'.
+
+
+Wed Oct 21 11:23:36 2026
+Command line: PhotoRec /log D:\!Tugass\semester 5\FORENSIK DIGITAL\kelompok\DF05_Kelompok5\03_CONTAINERS\truncated.dd
+
+PhotoRec 7.2, Data Recovery Utility, February 2024
+Christophe GRENIER <grenier@cgsecurity.org>
+https://www.cgsecurity.org
+OS: Windows 8 (9200)
+Compiler: GCC 11.2, Cygwin 3001.4
+ext2fs lib: 1.45.3, ntfs lib: available, ewf lib: 20140608, libjpeg: libjpeg-turbo-1.5.3, curses lib: ncurses 6.1
+Hard disk list
+Disk D:\!Tugass\semester 5\FORENSIK DIGITAL\kelompok\DF05_Kelompok5\03_CONTAINERS\truncated.dd - 8331 KB / 8136 KiB - CHS 2 255, sector size=512
+
+Load parameters from C:\Users\HP 430 G7\photorec.cfg
+Can't open photorec.ses file: No such file or directory
+Partition table type defaults to None
+   P Unknown                  0   0  1     1   3 18      16272
+5 first-level signatures enabled
+
+Analyse
+   P Unknown                  0   0  1     1   3 18      16272
+Pass 0 (blocksize=512) STATUS_FIND_OFFSET
+blocksize=4096, offset=0
+Elapsed time 0h00m00s
+Pass 1 (blocksize=4096) STATUS_EXT2_OFF
+Elapsed time 0h00m00s
+Pass 1 +0 file
+bmp: 0/20 recovered
+jpg: 0/20 recovered
+png: 0/20 recovered
+Total: 0 files found
+
+16272 sectors contain unknown data, 60 invalid files found and rejected.
+
+PhotoRec exited normally.

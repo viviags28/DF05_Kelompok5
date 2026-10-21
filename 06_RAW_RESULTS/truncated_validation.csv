@@ -1,3 +1,2 @@
 path,size_bytes,sha256,pillow_format,valid_image,error
-04_PHOTOREC\pilot\truncated\recup_dir.1\f0000000.bmp,331830,6b9c4ae5ade2ee87b18f5b24f5ecd4d9cb59eb91f6b2c240a3884a785dcc12b7,BMP,1,
-04_PHOTOREC\pilot\truncated\recup_dir.1\report.xml,1592,706c7ab80f4489bf55d54ae5ec4653d6624ea1a1b7d945261be04fbad2ef3045,UNKNOWN,0,cannot identify image file '04_PHOTOREC\\pilot\\truncated\\recup_dir.1\\report.xml'
+04_PHOTOREC\v2_main\truncated\recup_dir.1\report.xml,1473,219e0252879fbf322d55aeb6ec226aca27c980026d43a7f7eda9752540c1ae5a,UNKNOWN,0,cannot identify image file '04_PHOTOREC\\v2_main\\truncated\\recup_dir.1\\report.xml'

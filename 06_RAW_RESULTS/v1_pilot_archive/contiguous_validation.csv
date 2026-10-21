@@ -1,0 +1,3 @@
+path,size_bytes,sha256,pillow_format,valid_image,error
+04_PHOTOREC\pilot\contiguous\recup_dir.1\f0000000.bmp,331830,7ee03a5521e4951a7b9b47c39f9c2f5c899ebc8a92e50c240b3183e0e30adcf6,BMP,1,
+04_PHOTOREC\pilot\contiguous\recup_dir.1\report.xml,1602,04a6cb76091adedef24e03bdd4f8649da074cbd0380ff7c906db15bbaebf2165,UNKNOWN,0,cannot identify image file '04_PHOTOREC\\pilot\\contiguous\\recup_dir.1\\report.xml'

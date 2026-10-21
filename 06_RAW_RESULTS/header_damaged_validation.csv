@@ -1,1 +1,2 @@
 path,size_bytes,sha256,pillow_format,valid_image,error
+04_PHOTOREC\v2_main\header_damaged\recup_dir.1\report.xml,1478,4f461ab3a459f5d97baa62e446c781f4a93e69c8dfc987277b20fde2c5218560,UNKNOWN,0,cannot identify image file '04_PHOTOREC\\v2_main\\header_damaged\\recup_dir.1\\report.xml'

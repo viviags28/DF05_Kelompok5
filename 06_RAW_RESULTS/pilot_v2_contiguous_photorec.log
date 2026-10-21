@@ -1,0 +1,333 @@
+
+Using locale 'C.UTF-8'.
+
+
+Wed Oct 21 11:04:02 2026
+Command line: PhotoRec /log D:\!Tugass\semester 5\FORENSIK DIGITAL\kelompok\DF05_Kelompok5\03_CONTAINERS\contiguous.dd
+
+PhotoRec 7.2, Data Recovery Utility, February 2024
+Christophe GRENIER <grenier@cgsecurity.org>
+https://www.cgsecurity.org
+OS: Windows 8 (9200)
+Compiler: GCC 11.2, Cygwin 3001.4
+ext2fs lib: 1.45.3, ntfs lib: available, ewf lib: 20140608, libjpeg: libjpeg-turbo-1.5.3, curses lib: ncurses 6.1
+Hard disk list
+Disk D:\!Tugass\semester 5\FORENSIK DIGITAL\kelompok\DF05_Kelompok5\03_CONTAINERS\contiguous.dd - 9228 KB / 9012 KiB - CHS 2 25, sector size=512
+
+Load parameters from C:\Users\HP 430 G7\photorec.cfg
+Can't open photorec.ses file: No such file or directory
+Partition table type defaults to None
+   P Unknown                  0   0  1     1  31  6      18024
+
+Partition table type defaults to None
+   P Unknown                  0   0  1     1  31  6      18024
+
+Interface File Select
+Create file C:\Users\HP 430 G7\photorec.cfg
+Settings recorded successfully.Create file C:\Users\HP 430 G7\photorec.cfg
+Settings recorded successfully.5 first-level signatures enabled
+
+Analyse
+   P Unknown                  0   0  1     1  31  6      18024
+Pass 0 (blocksize=512) STATUS_FIND_OFFSET
+blocksize=4096, offset=0
+Elapsed time 0h00m00s
+Pass 1 (blocksize=4096) STATUS_EXT2_OFF
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.1/f0000000.bmp	 0-655
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.1/f0000664.bmp	 664-1551
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.1/f0001560.bmp	 1560-2719
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.1/f0002728.bmp	 2728-3543
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.1/f0003552.bmp	 3552-4095
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.1/f0004104.bmp	 4104-4863
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.1/f0004872.bmp	 4872-5887
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.1/f0005896.bmp	 5896-6623
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.1/f0006632.bmp	 6632-7607
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.1/f0007616.bmp	 7616-8247
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.1/f0008256.bmp	 8256-9127
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.1/f0009136.bmp	 9136-9767
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.1/f0009776.bmp	 9776-10647
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.1/f0010656.bmp	 10656-11791
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.1/f0011800.bmp	 11800-12527
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.1/f0012536.bmp	 12536-13079
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.1/f0013088.bmp	 13088-13847
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.1/f0013856.bmp	 13856-14871
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.1/f0014880.bmp	 14880-16183
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.1/f0016192.bmp	 16192-16647
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.1/f0016656.jpg	 16656-16695
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.1/f0016704.jpg	 16704-16751
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.1/f0016760.jpg	 16760-16823
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.1/f0016832.jpg	 16832-16871
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.1/f0016880.jpg	 16880-16911
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.1/f0016920.jpg	 16920-16967
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.1/f0016976.jpg	 16976-17031
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.1/f0017040.jpg	 17040-17087
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.1/f0017096.jpg	 17096-17135
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.1/f0017144.jpg	 17144-17183
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.1/f0017192.jpg	 17192-17239
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.1/f0017248.jpg	 17248-17287
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.1/f0017296.jpg	 17296-17343
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.1/f0017352.jpg	 17352-17399
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.1/f0017408.jpg	 17408-17447
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.1/f0017456.jpg	 17456-17487
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.1/f0017496.jpg	 17496-17535
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.1/f0017544.jpg	 17544-17583
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.1/f0017592.jpg	 17592-17647
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.1/f0017656.jpg	 17656-17687
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.1/f0017696.png	 17696-17703
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.1/f0017712.png	 17712-17719
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.1/f0017728.png	 17728-17735
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.1/f0017744.png	 17744-17751
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.1/f0017760.png	 17760-17767
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.1/f0017776.png	 17776-17783
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.1/f0017792.png	 17792-17799
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.1/f0017808.png	 17808-17815
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.1/f0017824.png	 17824-17831
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.1/f0017840.png	 17840-17847
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.1/f0017856.png	 17856-17863
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.1/f0017872.png	 17872-17879
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.1/f0017888.png	 17888-17895
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.1/f0017904.png	 17904-17911
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.1/f0017920.png	 17920-17927
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.1/f0017936.png	 17936-17943
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.1/f0017952.png	 17952-17959
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.1/f0017968.png	 17968-17975
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.1/f0017984.png	 17984-17999
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.1/f0018008.png	 18008-18015
+Elapsed time 0h00m00s
+Pass 1 +60 files
+bmp: 20/20 recovered
+jpg: 20/20 recovered
+png: 20/20 recovered
+Total: 60 files found
+
+480 sectors contain unknown data, 0 invalid files found and rejected.
+5 first-level signatures enabled
+
+Analyse
+   P Unknown                  0   0  1     1  31  6      18024
+Pass 0 (blocksize=512) STATUS_FIND_OFFSET
+blocksize=4096, offset=0
+Elapsed time 0h00m00s
+Pass 1 (blocksize=4096) STATUS_EXT2_OFF
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.2/f0000000.bmp	 0-655
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.2/f0000664.bmp	 664-1551
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.2/f0001560.bmp	 1560-2719
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.2/f0002728.bmp	 2728-3543
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.2/f0003552.bmp	 3552-4095
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.2/f0004104.bmp	 4104-4863
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.2/f0004872.bmp	 4872-5887
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.2/f0005896.bmp	 5896-6623
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.2/f0006632.bmp	 6632-7607
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.2/f0007616.bmp	 7616-8247
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.2/f0008256.bmp	 8256-9127
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.2/f0009136.bmp	 9136-9767
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.2/f0009776.bmp	 9776-10647
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.2/f0010656.bmp	 10656-11791
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.2/f0011800.bmp	 11800-12527
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.2/f0012536.bmp	 12536-13079
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.2/f0013088.bmp	 13088-13847
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.2/f0013856.bmp	 13856-14871
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.2/f0014880.bmp	 14880-16183
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.2/f0016192.bmp	 16192-16647
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.2/f0016656.jpg	 16656-16695
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.2/f0016704.jpg	 16704-16751
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.2/f0016760.jpg	 16760-16823
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.2/f0016832.jpg	 16832-16871
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.2/f0016880.jpg	 16880-16911
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.2/f0016920.jpg	 16920-16967
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.2/f0016976.jpg	 16976-17031
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.2/f0017040.jpg	 17040-17087
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.2/f0017096.jpg	 17096-17135
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.2/f0017144.jpg	 17144-17183
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.2/f0017192.jpg	 17192-17239
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.2/f0017248.jpg	 17248-17287
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.2/f0017296.jpg	 17296-17343
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.2/f0017352.jpg	 17352-17399
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.2/f0017408.jpg	 17408-17447
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.2/f0017456.jpg	 17456-17487
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.2/f0017496.jpg	 17496-17535
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.2/f0017544.jpg	 17544-17583
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.2/f0017592.jpg	 17592-17647
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.2/f0017656.jpg	 17656-17687
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.2/f0017696.png	 17696-17703
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.2/f0017712.png	 17712-17719
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.2/f0017728.png	 17728-17735
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.2/f0017744.png	 17744-17751
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.2/f0017760.png	 17760-17767
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.2/f0017776.png	 17776-17783
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.2/f0017792.png	 17792-17799
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.2/f0017808.png	 17808-17815
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.2/f0017824.png	 17824-17831
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.2/f0017840.png	 17840-17847
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.2/f0017856.png	 17856-17863
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.2/f0017872.png	 17872-17879
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.2/f0017888.png	 17888-17895
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.2/f0017904.png	 17904-17911
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.2/f0017920.png	 17920-17927
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.2/f0017936.png	 17936-17943
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.2/f0017952.png	 17952-17959
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.2/f0017968.png	 17968-17975
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.2/f0017984.png	 17984-17999
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.2/f0018008.png	 18008-18015
+Elapsed time 0h00m01s
+Pass 1 +60 files
+bmp: 20/20 recovered
+jpg: 20/20 recovered
+png: 20/20 recovered
+Total: 60 files found
+
+480 sectors contain unknown data, 0 invalid files found and rejected.
+5 first-level signatures enabled
+
+Analyse
+   P Unknown                  0   0  1     1  31  6      18024
+Pass 0 (blocksize=512) STATUS_FIND_OFFSET
+blocksize=4096, offset=0
+Elapsed time 0h00m00s
+Pass 1 (blocksize=4096) STATUS_EXT2_OFF
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.3/f0000000.bmp	 0-655
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.3/f0000664.bmp	 664-1551
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.3/f0001560.bmp	 1560-2719
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.3/f0002728.bmp	 2728-3543
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.3/f0003552.bmp	 3552-4095
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.3/f0004104.bmp	 4104-4863
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.3/f0004872.bmp	 4872-5887
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.3/f0005896.bmp	 5896-6623
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.3/f0006632.bmp	 6632-7607
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.3/f0007616.bmp	 7616-8247
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.3/f0008256.bmp	 8256-9127
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.3/f0009136.bmp	 9136-9767
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.3/f0009776.bmp	 9776-10647
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.3/f0010656.bmp	 10656-11791
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.3/f0011800.bmp	 11800-12527
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.3/f0012536.bmp	 12536-13079
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.3/f0013088.bmp	 13088-13847
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.3/f0013856.bmp	 13856-14871
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.3/f0014880.bmp	 14880-16183
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.3/f0016192.bmp	 16192-16647
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.3/f0016656.jpg	 16656-16695
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.3/f0016704.jpg	 16704-16751
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.3/f0016760.jpg	 16760-16823
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.3/f0016832.jpg	 16832-16871
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.3/f0016880.jpg	 16880-16911
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.3/f0016920.jpg	 16920-16967
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.3/f0016976.jpg	 16976-17031
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.3/f0017040.jpg	 17040-17087
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.3/f0017096.jpg	 17096-17135
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.3/f0017144.jpg	 17144-17183
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.3/f0017192.jpg	 17192-17239
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.3/f0017248.jpg	 17248-17287
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.3/f0017296.jpg	 17296-17343
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.3/f0017352.jpg	 17352-17399
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.3/f0017408.jpg	 17408-17447
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.3/f0017456.jpg	 17456-17487
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.3/f0017496.jpg	 17496-17535
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.3/f0017544.jpg	 17544-17583
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.3/f0017592.jpg	 17592-17647
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.3/f0017656.jpg	 17656-17687
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.3/f0017696.png	 17696-17703
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.3/f0017712.png	 17712-17719
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.3/f0017728.png	 17728-17735
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.3/f0017744.png	 17744-17751
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.3/f0017760.png	 17760-17767
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.3/f0017776.png	 17776-17783
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.3/f0017792.png	 17792-17799
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.3/f0017808.png	 17808-17815
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.3/f0017824.png	 17824-17831
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.3/f0017840.png	 17840-17847
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.3/f0017856.png	 17856-17863
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.3/f0017872.png	 17872-17879
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.3/f0017888.png	 17888-17895
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.3/f0017904.png	 17904-17911
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.3/f0017920.png	 17920-17927
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.3/f0017936.png	 17936-17943
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.3/f0017952.png	 17952-17959
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.3/f0017968.png	 17968-17975
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.3/f0017984.png	 17984-17999
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.3/f0018008.png	 18008-18015
+Elapsed time 0h00m00s
+Pass 1 +60 files
+bmp: 20/20 recovered
+jpg: 20/20 recovered
+png: 20/20 recovered
+Total: 60 files found
+
+480 sectors contain unknown data, 0 invalid files found and rejected.
+5 first-level signatures enabled
+
+Analyse
+   P Unknown                  0   0  1     1  31  6      18024
+Pass 0 (blocksize=512) STATUS_FIND_OFFSET
+blocksize=4096, offset=0
+Elapsed time 0h00m00s
+Pass 1 (blocksize=4096) STATUS_EXT2_OFF
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.4/f0000000.bmp	 0-655
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.4/f0000664.bmp	 664-1551
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.4/f0001560.bmp	 1560-2719
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.4/f0002728.bmp	 2728-3543
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.4/f0003552.bmp	 3552-4095
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.4/f0004104.bmp	 4104-4863
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.4/f0004872.bmp	 4872-5887
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.4/f0005896.bmp	 5896-6623
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.4/f0006632.bmp	 6632-7607
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.4/f0007616.bmp	 7616-8247
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.4/f0008256.bmp	 8256-9127
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.4/f0009136.bmp	 9136-9767
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.4/f0009776.bmp	 9776-10647
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.4/f0010656.bmp	 10656-11791
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.4/f0011800.bmp	 11800-12527
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.4/f0012536.bmp	 12536-13079
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.4/f0013088.bmp	 13088-13847
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.4/f0013856.bmp	 13856-14871
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.4/f0014880.bmp	 14880-16183
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.4/f0016192.bmp	 16192-16647
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.4/f0016656.jpg	 16656-16695
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.4/f0016704.jpg	 16704-16751
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.4/f0016760.jpg	 16760-16823
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.4/f0016832.jpg	 16832-16871
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.4/f0016880.jpg	 16880-16911
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.4/f0016920.jpg	 16920-16967
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.4/f0016976.jpg	 16976-17031
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.4/f0017040.jpg	 17040-17087
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.4/f0017096.jpg	 17096-17135
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.4/f0017144.jpg	 17144-17183
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.4/f0017192.jpg	 17192-17239
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.4/f0017248.jpg	 17248-17287
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.4/f0017296.jpg	 17296-17343
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.4/f0017352.jpg	 17352-17399
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.4/f0017408.jpg	 17408-17447
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.4/f0017456.jpg	 17456-17487
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.4/f0017496.jpg	 17496-17535
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.4/f0017544.jpg	 17544-17583
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.4/f0017592.jpg	 17592-17647
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.4/f0017656.jpg	 17656-17687
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.4/f0017696.png	 17696-17703
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.4/f0017712.png	 17712-17719
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.4/f0017728.png	 17728-17735
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.4/f0017744.png	 17744-17751
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.4/f0017760.png	 17760-17767
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.4/f0017776.png	 17776-17783
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.4/f0017792.png	 17792-17799
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.4/f0017808.png	 17808-17815
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.4/f0017824.png	 17824-17831
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.4/f0017840.png	 17840-17847
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.4/f0017856.png	 17856-17863
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.4/f0017872.png	 17872-17879
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.4/f0017888.png	 17888-17895
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.4/f0017904.png	 17904-17911
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.4/f0017920.png	 17920-17927
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.4/f0017936.png	 17936-17943
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.4/f0017952.png	 17952-17959
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.4/f0017968.png	 17968-17975
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.4/f0017984.png	 17984-17999
+/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.4/f0018008.png	 18008-18015
+Elapsed time 0h00m00s
+Pass 1 +60 files
+bmp: 20/20 recovered
+jpg: 20/20 recovered
+png: 20/20 recovered
+Total: 60 files found
+
+480 sectors contain unknown data, 0 invalid files found and rejected.
+
+PhotoRec exited normally.
