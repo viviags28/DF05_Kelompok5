@@ -1,333 +1,462 @@
-
-Using locale 'C.UTF-8'.
-
-
-Wed Oct 21 11:04:02 2026
-Command line: PhotoRec /log D:\!Tugass\semester 5\FORENSIK DIGITAL\kelompok\DF05_Kelompok5\03_CONTAINERS\contiguous.dd
-
-PhotoRec 7.2, Data Recovery Utility, February 2024
-Christophe GRENIER <grenier@cgsecurity.org>
-https://www.cgsecurity.org
-OS: Windows 8 (9200)
-Compiler: GCC 11.2, Cygwin 3001.4
-ext2fs lib: 1.45.3, ntfs lib: available, ewf lib: 20140608, libjpeg: libjpeg-turbo-1.5.3, curses lib: ncurses 6.1
-Hard disk list
-Disk D:\!Tugass\semester 5\FORENSIK DIGITAL\kelompok\DF05_Kelompok5\03_CONTAINERS\contiguous.dd - 9228 KB / 9012 KiB - CHS 2 25, sector size=512
-
-Load parameters from C:\Users\HP 430 G7\photorec.cfg
-Can't open photorec.ses file: No such file or directory
-Partition table type defaults to None
-   P Unknown                  0   0  1     1  31  6      18024
-
-Partition table type defaults to None
-   P Unknown                  0   0  1     1  31  6      18024
-
-Interface File Select
-Create file C:\Users\HP 430 G7\photorec.cfg
-Settings recorded successfully.Create file C:\Users\HP 430 G7\photorec.cfg
-Settings recorded successfully.5 first-level signatures enabled
-
-Analyse
-   P Unknown                  0   0  1     1  31  6      18024
-Pass 0 (blocksize=512) STATUS_FIND_OFFSET
-blocksize=4096, offset=0
-Elapsed time 0h00m00s
-Pass 1 (blocksize=4096) STATUS_EXT2_OFF
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.1/f0000000.bmp	 0-655
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.1/f0000664.bmp	 664-1551
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.1/f0001560.bmp	 1560-2719
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.1/f0002728.bmp	 2728-3543
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.1/f0003552.bmp	 3552-4095
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.1/f0004104.bmp	 4104-4863
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.1/f0004872.bmp	 4872-5887
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.1/f0005896.bmp	 5896-6623
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.1/f0006632.bmp	 6632-7607
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.1/f0007616.bmp	 7616-8247
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.1/f0008256.bmp	 8256-9127
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.1/f0009136.bmp	 9136-9767
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.1/f0009776.bmp	 9776-10647
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.1/f0010656.bmp	 10656-11791
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.1/f0011800.bmp	 11800-12527
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.1/f0012536.bmp	 12536-13079
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.1/f0013088.bmp	 13088-13847
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.1/f0013856.bmp	 13856-14871
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.1/f0014880.bmp	 14880-16183
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.1/f0016192.bmp	 16192-16647
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.1/f0016656.jpg	 16656-16695
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.1/f0016704.jpg	 16704-16751
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.1/f0016760.jpg	 16760-16823
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.1/f0016832.jpg	 16832-16871
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.1/f0016880.jpg	 16880-16911
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.1/f0016920.jpg	 16920-16967
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.1/f0016976.jpg	 16976-17031
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.1/f0017040.jpg	 17040-17087
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.1/f0017096.jpg	 17096-17135
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.1/f0017144.jpg	 17144-17183
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.1/f0017192.jpg	 17192-17239
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.1/f0017248.jpg	 17248-17287
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.1/f0017296.jpg	 17296-17343
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.1/f0017352.jpg	 17352-17399
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.1/f0017408.jpg	 17408-17447
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.1/f0017456.jpg	 17456-17487
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.1/f0017496.jpg	 17496-17535
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.1/f0017544.jpg	 17544-17583
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.1/f0017592.jpg	 17592-17647
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.1/f0017656.jpg	 17656-17687
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.1/f0017696.png	 17696-17703
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.1/f0017712.png	 17712-17719
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.1/f0017728.png	 17728-17735
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.1/f0017744.png	 17744-17751
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.1/f0017760.png	 17760-17767
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.1/f0017776.png	 17776-17783
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.1/f0017792.png	 17792-17799
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.1/f0017808.png	 17808-17815
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.1/f0017824.png	 17824-17831
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.1/f0017840.png	 17840-17847
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.1/f0017856.png	 17856-17863
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.1/f0017872.png	 17872-17879
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.1/f0017888.png	 17888-17895
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.1/f0017904.png	 17904-17911
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.1/f0017920.png	 17920-17927
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.1/f0017936.png	 17936-17943
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.1/f0017952.png	 17952-17959
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.1/f0017968.png	 17968-17975
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.1/f0017984.png	 17984-17999
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.1/f0018008.png	 18008-18015
-Elapsed time 0h00m00s
-Pass 1 +60 files
-bmp: 20/20 recovered
-jpg: 20/20 recovered
-png: 20/20 recovered
-Total: 60 files found
-
-480 sectors contain unknown data, 0 invalid files found and rejected.
-5 first-level signatures enabled
-
-Analyse
-   P Unknown                  0   0  1     1  31  6      18024
-Pass 0 (blocksize=512) STATUS_FIND_OFFSET
-blocksize=4096, offset=0
-Elapsed time 0h00m00s
-Pass 1 (blocksize=4096) STATUS_EXT2_OFF
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.2/f0000000.bmp	 0-655
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.2/f0000664.bmp	 664-1551
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.2/f0001560.bmp	 1560-2719
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.2/f0002728.bmp	 2728-3543
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.2/f0003552.bmp	 3552-4095
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.2/f0004104.bmp	 4104-4863
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.2/f0004872.bmp	 4872-5887
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.2/f0005896.bmp	 5896-6623
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.2/f0006632.bmp	 6632-7607
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.2/f0007616.bmp	 7616-8247
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.2/f0008256.bmp	 8256-9127
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.2/f0009136.bmp	 9136-9767
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.2/f0009776.bmp	 9776-10647
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.2/f0010656.bmp	 10656-11791
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.2/f0011800.bmp	 11800-12527
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.2/f0012536.bmp	 12536-13079
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.2/f0013088.bmp	 13088-13847
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.2/f0013856.bmp	 13856-14871
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.2/f0014880.bmp	 14880-16183
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.2/f0016192.bmp	 16192-16647
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.2/f0016656.jpg	 16656-16695
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.2/f0016704.jpg	 16704-16751
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.2/f0016760.jpg	 16760-16823
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.2/f0016832.jpg	 16832-16871
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.2/f0016880.jpg	 16880-16911
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.2/f0016920.jpg	 16920-16967
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.2/f0016976.jpg	 16976-17031
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.2/f0017040.jpg	 17040-17087
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.2/f0017096.jpg	 17096-17135
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.2/f0017144.jpg	 17144-17183
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.2/f0017192.jpg	 17192-17239
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.2/f0017248.jpg	 17248-17287
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.2/f0017296.jpg	 17296-17343
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.2/f0017352.jpg	 17352-17399
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.2/f0017408.jpg	 17408-17447
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.2/f0017456.jpg	 17456-17487
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.2/f0017496.jpg	 17496-17535
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.2/f0017544.jpg	 17544-17583
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.2/f0017592.jpg	 17592-17647
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.2/f0017656.jpg	 17656-17687
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.2/f0017696.png	 17696-17703
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.2/f0017712.png	 17712-17719
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.2/f0017728.png	 17728-17735
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.2/f0017744.png	 17744-17751
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.2/f0017760.png	 17760-17767
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.2/f0017776.png	 17776-17783
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.2/f0017792.png	 17792-17799
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.2/f0017808.png	 17808-17815
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.2/f0017824.png	 17824-17831
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.2/f0017840.png	 17840-17847
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.2/f0017856.png	 17856-17863
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.2/f0017872.png	 17872-17879
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.2/f0017888.png	 17888-17895
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.2/f0017904.png	 17904-17911
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.2/f0017920.png	 17920-17927
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.2/f0017936.png	 17936-17943
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.2/f0017952.png	 17952-17959
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.2/f0017968.png	 17968-17975
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.2/f0017984.png	 17984-17999
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.2/f0018008.png	 18008-18015
-Elapsed time 0h00m01s
-Pass 1 +60 files
-bmp: 20/20 recovered
-jpg: 20/20 recovered
-png: 20/20 recovered
-Total: 60 files found
-
-480 sectors contain unknown data, 0 invalid files found and rejected.
-5 first-level signatures enabled
-
-Analyse
-   P Unknown                  0   0  1     1  31  6      18024
-Pass 0 (blocksize=512) STATUS_FIND_OFFSET
-blocksize=4096, offset=0
-Elapsed time 0h00m00s
-Pass 1 (blocksize=4096) STATUS_EXT2_OFF
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.3/f0000000.bmp	 0-655
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.3/f0000664.bmp	 664-1551
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.3/f0001560.bmp	 1560-2719
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.3/f0002728.bmp	 2728-3543
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.3/f0003552.bmp	 3552-4095
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.3/f0004104.bmp	 4104-4863
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.3/f0004872.bmp	 4872-5887
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.3/f0005896.bmp	 5896-6623
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.3/f0006632.bmp	 6632-7607
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.3/f0007616.bmp	 7616-8247
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.3/f0008256.bmp	 8256-9127
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.3/f0009136.bmp	 9136-9767
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.3/f0009776.bmp	 9776-10647
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.3/f0010656.bmp	 10656-11791
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.3/f0011800.bmp	 11800-12527
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.3/f0012536.bmp	 12536-13079
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.3/f0013088.bmp	 13088-13847
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.3/f0013856.bmp	 13856-14871
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.3/f0014880.bmp	 14880-16183
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.3/f0016192.bmp	 16192-16647
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.3/f0016656.jpg	 16656-16695
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.3/f0016704.jpg	 16704-16751
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.3/f0016760.jpg	 16760-16823
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.3/f0016832.jpg	 16832-16871
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.3/f0016880.jpg	 16880-16911
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.3/f0016920.jpg	 16920-16967
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.3/f0016976.jpg	 16976-17031
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.3/f0017040.jpg	 17040-17087
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.3/f0017096.jpg	 17096-17135
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.3/f0017144.jpg	 17144-17183
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.3/f0017192.jpg	 17192-17239
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.3/f0017248.jpg	 17248-17287
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.3/f0017296.jpg	 17296-17343
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.3/f0017352.jpg	 17352-17399
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.3/f0017408.jpg	 17408-17447
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.3/f0017456.jpg	 17456-17487
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.3/f0017496.jpg	 17496-17535
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.3/f0017544.jpg	 17544-17583
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.3/f0017592.jpg	 17592-17647
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.3/f0017656.jpg	 17656-17687
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.3/f0017696.png	 17696-17703
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.3/f0017712.png	 17712-17719
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.3/f0017728.png	 17728-17735
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.3/f0017744.png	 17744-17751
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.3/f0017760.png	 17760-17767
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.3/f0017776.png	 17776-17783
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.3/f0017792.png	 17792-17799
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.3/f0017808.png	 17808-17815
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.3/f0017824.png	 17824-17831
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.3/f0017840.png	 17840-17847
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.3/f0017856.png	 17856-17863
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.3/f0017872.png	 17872-17879
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.3/f0017888.png	 17888-17895
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.3/f0017904.png	 17904-17911
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.3/f0017920.png	 17920-17927
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.3/f0017936.png	 17936-17943
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.3/f0017952.png	 17952-17959
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.3/f0017968.png	 17968-17975
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.3/f0017984.png	 17984-17999
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.3/f0018008.png	 18008-18015
-Elapsed time 0h00m00s
-Pass 1 +60 files
-bmp: 20/20 recovered
-jpg: 20/20 recovered
-png: 20/20 recovered
-Total: 60 files found
-
-480 sectors contain unknown data, 0 invalid files found and rejected.
-5 first-level signatures enabled
-
-Analyse
-   P Unknown                  0   0  1     1  31  6      18024
-Pass 0 (blocksize=512) STATUS_FIND_OFFSET
-blocksize=4096, offset=0
-Elapsed time 0h00m00s
-Pass 1 (blocksize=4096) STATUS_EXT2_OFF
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.4/f0000000.bmp	 0-655
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.4/f0000664.bmp	 664-1551
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.4/f0001560.bmp	 1560-2719
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.4/f0002728.bmp	 2728-3543
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.4/f0003552.bmp	 3552-4095
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.4/f0004104.bmp	 4104-4863
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.4/f0004872.bmp	 4872-5887
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.4/f0005896.bmp	 5896-6623
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.4/f0006632.bmp	 6632-7607
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.4/f0007616.bmp	 7616-8247
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.4/f0008256.bmp	 8256-9127
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.4/f0009136.bmp	 9136-9767
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.4/f0009776.bmp	 9776-10647
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.4/f0010656.bmp	 10656-11791
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.4/f0011800.bmp	 11800-12527
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.4/f0012536.bmp	 12536-13079
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.4/f0013088.bmp	 13088-13847
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.4/f0013856.bmp	 13856-14871
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.4/f0014880.bmp	 14880-16183
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.4/f0016192.bmp	 16192-16647
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.4/f0016656.jpg	 16656-16695
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.4/f0016704.jpg	 16704-16751
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.4/f0016760.jpg	 16760-16823
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.4/f0016832.jpg	 16832-16871
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.4/f0016880.jpg	 16880-16911
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.4/f0016920.jpg	 16920-16967
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.4/f0016976.jpg	 16976-17031
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.4/f0017040.jpg	 17040-17087
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.4/f0017096.jpg	 17096-17135
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.4/f0017144.jpg	 17144-17183
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.4/f0017192.jpg	 17192-17239
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.4/f0017248.jpg	 17248-17287
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.4/f0017296.jpg	 17296-17343
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.4/f0017352.jpg	 17352-17399
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.4/f0017408.jpg	 17408-17447
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.4/f0017456.jpg	 17456-17487
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.4/f0017496.jpg	 17496-17535
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.4/f0017544.jpg	 17544-17583
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.4/f0017592.jpg	 17592-17647
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.4/f0017656.jpg	 17656-17687
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.4/f0017696.png	 17696-17703
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.4/f0017712.png	 17712-17719
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.4/f0017728.png	 17728-17735
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.4/f0017744.png	 17744-17751
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.4/f0017760.png	 17760-17767
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.4/f0017776.png	 17776-17783
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.4/f0017792.png	 17792-17799
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.4/f0017808.png	 17808-17815
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.4/f0017824.png	 17824-17831
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.4/f0017840.png	 17840-17847
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.4/f0017856.png	 17856-17863
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.4/f0017872.png	 17872-17879
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.4/f0017888.png	 17888-17895
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.4/f0017904.png	 17904-17911
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.4/f0017920.png	 17920-17927
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.4/f0017936.png	 17936-17943
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.4/f0017952.png	 17952-17959
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.4/f0017968.png	 17968-17975
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.4/f0017984.png	 17984-17999
-/!Tugass/semester 5/FORENSIK DIGITAL/kelompok/DF05_Kelompok5/04_PHOTOREC/pilot/contiguous/recup_dir.4/f0018008.png	 18008-18015
-Elapsed time 0h00m00s
-Pass 1 +60 files
-bmp: 20/20 recovered
-jpg: 20/20 recovered
-png: 20/20 recovered
-Total: 60 files found
-
-480 sectors contain unknown data, 0 invalid files found and rejected.
-
-PhotoRec exited normally.
+<?xml version='1.0' encoding='UTF-8'?>
+<dfxml xmloutputversion='1.0'>
+  <metadata 
+  xmlns='http://www.forensicswiki.org/wiki/Category:Digital_Forensics_XML' 
+  xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' 
+  xmlns:dc='http://purl.org/dc/elements/1.1/'>
+    <dc:type>Carve Report</dc:type>
+  </metadata>
+  <creator>
+    <package>PhotoRec</package>
+    <version>7.2</version>
+    <build_environment>
+      <compiler>GCC 11.2, Cygwin 3001.4</compiler>
+      <library name='libext2fs' version='1.45.3'/>
+      <library name='libewf' version='20140608'/>
+      <library name='libjpeg' version='libjpeg-turbo-1.5.3'/>
+      <library name='libntfs' version='available'/>
+      <library name='zlib' version='1.2.11'/>
+    </build_environment>
+    <execution_environment>
+      <os_sysname>Windows</os_sysname>
+      <os_release>Windows 8 (9200)</os_release>
+      <os_version>Windows 8 (9200)</os_version>
+      <host>Viviags</host>
+      <arch>x86_64</arch>
+      <uid>197609</uid>
+      <start_time>2026-10-21T11:35:50+0700</start_time>
+    </execution_environment>
+  </creator>
+  <source>
+    <image_filename>D:\!Tugass\semester 5\FORENSIK DIGITAL\kelompok\DF05_Kelompok5\03_CONTAINERS\contiguous.dd</image_filename>
+    <sectorsize>512</sectorsize>
+    <image_size>9228288</image_size>
+    <volume>
+      <byte_runs>
+        <byte_run offset='0' img_offset='0' len='9228288'/>
+      </byte_runs>
+    </volume>
+  </source>
+  <configuration>
+  </configuration>
+  <fileobject>
+    <filename>f0000000.bmp</filename>
+    <filesize>331830</filesize>
+    <byte_runs>
+      <byte_run offset='0' img_offset='0' len='335872'/>
+    </byte_runs>
+  </fileobject>
+  <fileobject>
+    <filename>f0000664.bmp</filename>
+    <filesize>451638</filesize>
+    <byte_runs>
+      <byte_run offset='0' img_offset='339968' len='454656'/>
+    </byte_runs>
+  </fileobject>
+  <fileobject>
+    <filename>f0001560.bmp</filename>
+    <filesize>589878</filesize>
+    <byte_runs>
+      <byte_run offset='0' img_offset='798720' len='593920'/>
+    </byte_runs>
+  </fileobject>
+  <fileobject>
+    <filename>f0002728.bmp</filename>
+    <filesize>414774</filesize>
+    <byte_runs>
+      <byte_run offset='0' img_offset='1396736' len='417792'/>
+    </byte_runs>
+  </fileobject>
+  <fileobject>
+    <filename>f0003552.bmp</filename>
+    <filesize>276534</filesize>
+    <byte_runs>
+      <byte_run offset='0' img_offset='1818624' len='278528'/>
+    </byte_runs>
+  </fileobject>
+  <fileobject>
+    <filename>f0004104.bmp</filename>
+    <filesize>387126</filesize>
+    <byte_runs>
+      <byte_run offset='0' img_offset='2101248' len='389120'/>
+    </byte_runs>
+  </fileobject>
+  <fileobject>
+    <filename>f0004872.bmp</filename>
+    <filesize>516150</filesize>
+    <byte_runs>
+      <byte_run offset='0' img_offset='2494464' len='520192'/>
+    </byte_runs>
+  </fileobject>
+  <fileobject>
+    <filename>f0005896.bmp</filename>
+    <filesize>368694</filesize>
+    <byte_runs>
+      <byte_run offset='0' img_offset='3018752' len='372736'/>
+    </byte_runs>
+  </fileobject>
+  <fileobject>
+    <filename>f0006632.bmp</filename>
+    <filesize>497718</filesize>
+    <byte_runs>
+      <byte_run offset='0' img_offset='3395584' len='499712'/>
+    </byte_runs>
+  </fileobject>
+  <fileobject>
+    <filename>f0007616.bmp</filename>
+    <filesize>322614</filesize>
+    <byte_runs>
+      <byte_run offset='0' img_offset='3899392' len='323584'/>
+    </byte_runs>
+  </fileobject>
+  <fileobject>
+    <filename>f0008256.bmp</filename>
+    <filesize>442422</filesize>
+    <byte_runs>
+      <byte_run offset='0' img_offset='4227072' len='446464'/>
+    </byte_runs>
+  </fileobject>
+  <fileobject>
+    <filename>f0009136.bmp</filename>
+    <filesize>322614</filesize>
+    <byte_runs>
+      <byte_run offset='0' img_offset='4677632' len='323584'/>
+    </byte_runs>
+  </fileobject>
+  <fileobject>
+    <filename>f0009776.bmp</filename>
+    <filesize>442422</filesize>
+    <byte_runs>
+      <byte_run offset='0' img_offset='5005312' len='446464'/>
+    </byte_runs>
+  </fileobject>
+  <fileobject>
+    <filename>f0010656.bmp</filename>
+    <filesize>580662</filesize>
+    <byte_runs>
+      <byte_run offset='0' img_offset='5455872' len='581632'/>
+    </byte_runs>
+  </fileobject>
+  <fileobject>
+    <filename>f0011800.bmp</filename>
+    <filesize>368694</filesize>
+    <byte_runs>
+      <byte_run offset='0' img_offset='6041600' len='372736'/>
+    </byte_runs>
+  </fileobject>
+  <fileobject>
+    <filename>f0012536.bmp</filename>
+    <filesize>276534</filesize>
+    <byte_runs>
+      <byte_run offset='0' img_offset='6418432' len='278528'/>
+    </byte_runs>
+  </fileobject>
+  <fileobject>
+    <filename>f0013088.bmp</filename>
+    <filesize>387126</filesize>
+    <byte_runs>
+      <byte_run offset='0' img_offset='6701056' len='389120'/>
+    </byte_runs>
+  </fileobject>
+  <fileobject>
+    <filename>f0013856.bmp</filename>
+    <filesize>516150</filesize>
+    <byte_runs>
+      <byte_run offset='0' img_offset='7094272' len='520192'/>
+    </byte_runs>
+  </fileobject>
+  <fileobject>
+    <filename>f0014880.bmp</filename>
+    <filesize>663606</filesize>
+    <byte_runs>
+      <byte_run offset='0' img_offset='7618560' len='667648'/>
+    </byte_runs>
+  </fileobject>
+  <fileobject>
+    <filename>f0016192.bmp</filename>
+    <filesize>230454</filesize>
+    <byte_runs>
+      <byte_run offset='0' img_offset='8290304' len='233472'/>
+    </byte_runs>
+  </fileobject>
+  <fileobject>
+    <filename>f0016656.jpg</filename>
+    <filesize>20180</filesize>
+    <byte_runs>
+      <byte_run offset='0' img_offset='8527872' len='20480'/>
+    </byte_runs>
+  </fileobject>
+  <fileobject>
+    <filename>f0016704.jpg</filename>
+    <filesize>20625</filesize>
+    <byte_runs>
+      <byte_run offset='0' img_offset='8552448' len='24576'/>
+    </byte_runs>
+  </fileobject>
+  <fileobject>
+    <filename>f0016760.jpg</filename>
+    <filesize>28900</filesize>
+    <byte_runs>
+      <byte_run offset='0' img_offset='8581120' len='32768'/>
+    </byte_runs>
+  </fileobject>
+  <fileobject>
+    <filename>f0016832.jpg</filename>
+    <filesize>18983</filesize>
+    <byte_runs>
+      <byte_run offset='0' img_offset='8617984' len='20480'/>
+    </byte_runs>
+  </fileobject>
+  <fileobject>
+    <filename>f0016880.jpg</filename>
+    <filesize>15302</filesize>
+    <byte_runs>
+      <byte_run offset='0' img_offset='8642560' len='16384'/>
+    </byte_runs>
+  </fileobject>
+  <fileobject>
+    <filename>f0016920.jpg</filename>
+    <filesize>21515</filesize>
+    <byte_runs>
+      <byte_run offset='0' img_offset='8663040' len='24576'/>
+    </byte_runs>
+  </fileobject>
+  <fileobject>
+    <filename>f0016976.jpg</filename>
+    <filesize>26322</filesize>
+    <byte_runs>
+      <byte_run offset='0' img_offset='8691712' len='28672'/>
+    </byte_runs>
+  </fileobject>
+  <fileobject>
+    <filename>f0017040.jpg</filename>
+    <filesize>21796</filesize>
+    <byte_runs>
+      <byte_run offset='0' img_offset='8724480' len='24576'/>
+    </byte_runs>
+  </fileobject>
+  <fileobject>
+    <filename>f0017096.jpg</filename>
+    <filesize>18768</filesize>
+    <byte_runs>
+      <byte_run offset='0' img_offset='8753152' len='20480'/>
+    </byte_runs>
+  </fileobject>
+  <fileobject>
+    <filename>f0017144.jpg</filename>
+    <filesize>18501</filesize>
+    <byte_runs>
+      <byte_run offset='0' img_offset='8777728' len='20480'/>
+    </byte_runs>
+  </fileobject>
+  <fileobject>
+    <filename>f0017192.jpg</filename>
+    <filesize>20804</filesize>
+    <byte_runs>
+      <byte_run offset='0' img_offset='8802304' len='24576'/>
+    </byte_runs>
+  </fileobject>
+  <fileobject>
+    <filename>f0017248.jpg</filename>
+    <filesize>18436</filesize>
+    <byte_runs>
+      <byte_run offset='0' img_offset='8830976' len='20480'/>
+    </byte_runs>
+  </fileobject>
+  <fileobject>
+    <filename>f0017296.jpg</filename>
+    <filesize>22610</filesize>
+    <byte_runs>
+      <byte_run offset='0' img_offset='8855552' len='24576'/>
+    </byte_runs>
+  </fileobject>
+  <fileobject>
+    <filename>f0017352.jpg</filename>
+    <filesize>22169</filesize>
+    <byte_runs>
+      <byte_run offset='0' img_offset='8884224' len='24576'/>
+    </byte_runs>
+  </fileobject>
+  <fileobject>
+    <filename>f0017408.jpg</filename>
+    <filesize>18698</filesize>
+    <byte_runs>
+      <byte_run offset='0' img_offset='8912896' len='20480'/>
+    </byte_runs>
+  </fileobject>
+  <fileobject>
+    <filename>f0017456.jpg</filename>
+    <filesize>15024</filesize>
+    <byte_runs>
+      <byte_run offset='0' img_offset='8937472' len='16384'/>
+    </byte_runs>
+  </fileobject>
+  <fileobject>
+    <filename>f0017496.jpg</filename>
+    <filesize>19283</filesize>
+    <byte_runs>
+      <byte_run offset='0' img_offset='8957952' len='20480'/>
+    </byte_runs>
+  </fileobject>
+  <fileobject>
+    <filename>f0017544.jpg</filename>
+    <filesize>20425</filesize>
+    <byte_runs>
+      <byte_run offset='0' img_offset='8982528' len='20480'/>
+    </byte_runs>
+  </fileobject>
+  <fileobject>
+    <filename>f0017592.jpg</filename>
+    <filesize>26807</filesize>
+    <byte_runs>
+      <byte_run offset='0' img_offset='9007104' len='28672'/>
+    </byte_runs>
+  </fileobject>
+  <fileobject>
+    <filename>f0017656.jpg</filename>
+    <filesize>13353</filesize>
+    <byte_runs>
+      <byte_run offset='0' img_offset='9039872' len='16384'/>
+    </byte_runs>
+  </fileobject>
+  <fileobject>
+    <filename>f0017696.png</filename>
+    <filesize>3326</filesize>
+    <byte_runs>
+      <byte_run offset='0' img_offset='9060352' len='4096'/>
+    </byte_runs>
+  </fileobject>
+  <fileobject>
+    <filename>f0017712.png</filename>
+    <filesize>4013</filesize>
+    <byte_runs>
+      <byte_run offset='0' img_offset='9068544' len='4096'/>
+    </byte_runs>
+  </fileobject>
+  <fileobject>
+    <filename>f0017728.png</filename>
+    <filesize>4017</filesize>
+    <byte_runs>
+      <byte_run offset='0' img_offset='9076736' len='4096'/>
+    </byte_runs>
+  </fileobject>
+  <fileobject>
+    <filename>f0017744.png</filename>
+    <filesize>2724</filesize>
+    <byte_runs>
+      <byte_run offset='0' img_offset='9084928' len='4096'/>
+    </byte_runs>
+  </fileobject>
+  <fileobject>
+    <filename>f0017760.png</filename>
+    <filesize>2868</filesize>
+    <byte_runs>
+      <byte_run offset='0' img_offset='9093120' len='4096'/>
+    </byte_runs>
+  </fileobject>
+  <fileobject>
+    <filename>f0017776.png</filename>
+    <filesize>3584</filesize>
+    <byte_runs>
+      <byte_run offset='0' img_offset='9101312' len='4096'/>
+    </byte_runs>
+  </fileobject>
+  <fileobject>
+    <filename>f0017792.png</filename>
+    <filesize>2952</filesize>
+    <byte_runs>
+      <byte_run offset='0' img_offset='9109504' len='4096'/>
+    </byte_runs>
+  </fileobject>
+  <fileobject>
+    <filename>f0017808.png</filename>
+    <filesize>3208</filesize>
+    <byte_runs>
+      <byte_run offset='0' img_offset='9117696' len='4096'/>
+    </byte_runs>
+  </fileobject>
+  <fileobject>
+    <filename>f0017824.png</filename>
+    <filesize>2953</filesize>
+    <byte_runs>
+      <byte_run offset='0' img_offset='9125888' len='4096'/>
+    </byte_runs>
+  </fileobject>
+  <fileobject>
+    <filename>f0017840.png</filename>
+    <filesize>3152</filesize>
+    <byte_runs>
+      <byte_run offset='0' img_offset='9134080' len='4096'/>
+    </byte_runs>
+  </fileobject>
+  <fileobject>
+    <filename>f0017856.png</filename>
+    <filesize>3577</filesize>
+    <byte_runs>
+      <byte_run offset='0' img_offset='9142272' len='4096'/>
+    </byte_runs>
+  </fileobject>
+  <fileobject>
+    <filename>f0017872.png</filename>
+    <filesize>2641</filesize>
+    <byte_runs>
+      <byte_run offset='0' img_offset='9150464' len='4096'/>
+    </byte_runs>
+  </fileobject>
+  <fileobject>
+    <filename>f0017888.png</filename>
+    <filesize>2929</filesize>
+    <byte_runs>
+      <byte_run offset='0' img_offset='9158656' len='4096'/>
+    </byte_runs>
+  </fileobject>
+  <fileobject>
+    <filename>f0017904.png</filename>
+    <filesize>3348</filesize>
+    <byte_runs>
+      <byte_run offset='0' img_offset='9166848' len='4096'/>
+    </byte_runs>
+  </fileobject>
+  <fileobject>
+    <filename>f0017920.png</filename>
+    <filesize>3252</filesize>
+    <byte_runs>
+      <byte_run offset='0' img_offset='9175040' len='4096'/>
+    </byte_runs>
+  </fileobject>
+  <fileobject>
+    <filename>f0017936.png</filename>
+    <filesize>2904</filesize>
+    <byte_runs>
+      <byte_run offset='0' img_offset='9183232' len='4096'/>
+    </byte_runs>
+  </fileobject>
+  <fileobject>
+    <filename>f0017952.png</filename>
+    <filesize>3306</filesize>
+    <byte_runs>
+      <byte_run offset='0' img_offset='9191424' len='4096'/>
+    </byte_runs>
+  </fileobject>
+  <fileobject>
+    <filename>f0017968.png</filename>
+    <filesize>3122</filesize>
+    <byte_runs>
+      <byte_run offset='0' img_offset='9199616' len='4096'/>
+    </byte_runs>
+  </fileobject>
+  <fileobject>
+    <filename>f0017984.png</filename>
+    <filesize>4453</filesize>
+    <byte_runs>
+      <byte_run offset='0' img_offset='9207808' len='8192'/>
+    </byte_runs>
+  </fileobject>
+  <fileobject>
+    <filename>f0018008.png</filename>
+    <filesize>3244</filesize>
+    <byte_runs>
+      <byte_run offset='0' img_offset='9220096' len='4096'/>
+    </byte_runs>
+  </fileobject>
+</dfxml>
